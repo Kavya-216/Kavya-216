@@ -1,66 +1,78 @@
 <div align="center">
-  <br>
-  <h1><code>&gt; printf("Hello, I'm Kavya.\n");</code></h1>
-  <p>
-    <i>AI/ML Developer · Multi-Agent Orchestrator · OS Enthusiast</i>
-  </p>
-  <br>
-</div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08060D,35:21102F,65:5B21B6,100:A78BFA&height=245&section=header&text=KAVYA&fontSize=76&fontColor=FFFFFF&fontAlignY=42&desc=KAVYA-216%20%2F%2F%20SOMETHING%20IS%20ALWAYS%20BUILDING&descAlignY=64&descSize=13&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=780&height=55&lines=hello%2C+stalker.;you+found+my+GitHub.;I+build+things+I+can't+stop+thinking+about.;turning+%22what+if%3F%22+into+code.;please+don't+touch+the+experiments." alt="Kavya"/>
 
 <br>
+
+AI / ML · PYTHON · EXPERIMENTS · SYSTEMS
+
+<br><br>
+
+<a href="#console">[ ENTER CONSOLE ]</a>
+  ·  
+<a href="https://github.com/Kavya-216?tab=repositories">[ REPOSITORIES ]</a>
+
+</div>
+
+<div align="center" id="console">
+
+<img src="./kavya-console.svg" width="100%" alt="Kavya developer console"/>
+
+</div>
 
 <div align="center">
-  <p>
-    Welcome to my workspace. I build <b>intelligent architectures</b>, train <b>neural networks</b>, and occasionally stare at <code>fork()</code> edge cases until my Operating System makes sense. 
-  </p>
-  <p>
-    <i>"My code is like Schrödinger's cat. It both compiles and crashes until I check the logs."</i> 🐈‍⬛
-  </p>
+
+the short version
+
+I am a CSE undergraduate who likes taking a "what if?" and seeing how far it can go.
+
+Currently exploring AI/ML, intelligent systems and Python, while building projects that are hopefully more interesting than another tutorial clone.
+
 </div>
 
-<br>
-
-### 💻 Interactive Shell (Click to Execute)
-
 <details>
-  <summary><code>$ ./run current_status.sh</code></summary>
-  <blockquote>
-    <p>
-      🤖 <b>Building:</b> Multi-agent orchestration systems using open-source models.<br>
-      📝 <b>Writing:</b> An IEEE journal paper (and fighting with the citation formatting).<br>
-      🧠 <b>Researching:</b> Deep Learning architectures and audio signal processing.<br>
-      ☕ <b>Fuel:</b> Dangerously high levels of caffeine.
-    </p>
-  </blockquote>
-</details>
-
-<details>
-  <summary><code>$ cat tech_stack.json</code></summary>
-  <blockquote>
-<pre lang="json">
-{
-  "Core": ["Python", "C"],
-  "AI_ML": ["PyTorch", "TensorFlow", "scikit-learn", "Deep Learning"],
-  "Systems": ["Linux", "Docker", "Git"],
-  "CS_Fundamentals": ["Operating Systems", "Process Trees", "Short-Circuit Logic"]
-}
-</pre>
-  </blockquote>
-</details>
+<summary><b>open / selected experiments</b></summary>
 
 <br>
 
-### 🚀 Deployed Executables (Selected Projects)
+EXP_01 — MITRA
+AI-assisted legal & support platform · Python RAG Supabase
+SheBuilds / Runner-Up
 
-<table width="100%" align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3><b>01. Pocket Sonar</b></h3>
-      <p><i>Audio Signal Processing Application</i></p>
-      <p>An innovative app utilizing smartphone microphones, spectral analysis, and pretrained audio classification models. Built with a custom web frontend for real-time processing during a hackathon demonstration.</p>
-    </td>
+EXP_02 — UDAAN
+Accessibility-focused technology · Python MediaPipe TensorFlow Lite
+NMIT Vibe-O-Thon / Overall Runner-Up
+
+EXP_03 — ECOSENTRY
+Environmental audio intelligence · Python SNN Audio
+Research / In Progress
+
+EXP_04 — CLASSIFIED
+The repository appears when it survives development.
+
+<br>
+
+<a href="https://github.com/Kavya-216?tab=repositories">OPEN REPOSITORIES →</a>
+
+</details>
+
+<div align="center">
+
+QUESTION → BUILD → BREAK → UNDERSTAND → BUILD BETTER
+
+<br><br>
+
+<a href="https://github.com/Kavya-216">GITHUB</a>
+  ·  
+<a href="https://github.com/Kavya-216?tab=repositories">PROJECTS</a>
+
+<br><br>
+
+<sub>thanks for stalking. curiosity is currently running in the background.</sub>
+
+</div>    </td>
     <td width="50%" valign="top">
       <h3><b>02. Multi-Agent Orchestration</b></h3>
       <p><i>AI System Architecture</i></p>
