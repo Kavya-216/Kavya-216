@@ -1,144 +1,126 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08060D,45:24113D,75:6D28D9,100:A78BFA&height=220&section=header&text=KAVYA&fontSize=72&fontColor=FFFFFF&fontAlignY=42&desc=KAVYA-216%20%2F%2F%20DEVELOPER%20PROFILE&descAlignY=64&descSize=13&animation=fadeIn" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=760&height=52&lines=hello%2C+stalker.;you+found+the+interesting+part.;I+build+things+I+can't+stop+thinking+about.;turning+%22what+if%3F%22+into+code." alt="Kavya"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10061F,35:241044,65:54218C,100:8B5CF6&height=250&section=header&text=KAVYA&fontSize=76&fontColor=FFFFFF&fontAlignY=38&desc=hello%2C%20stalker.&descAlignY=62&descSize=21&descColor=E9D5FF" width="100%"/>
 
 <br>
 
-AI / ML   PYTHON   INTELLIGENT SYSTEMS   EXPERIMENTS
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=900&color=C4B5FD&center=true&vCenter=true&width=760&height=35&lines=CSE+%C2%B7+AI%2FML+%C2%B7+Python;building+things+that+probably+started+as+%22what+if...%22;learning+%C2%B7+building+%C2%B7+breaking+%C2%B7+fixing;turning+curiosity+into+slightly+unnecessary+projects;currently+trying+to+make+computers+do+interesting+things." alt="Dynamic typing text"/>
+</a>
 
 <br><br>
 
-<a href="#selected-work">WORK</a>  ·  <a href="#current">CURRENT</a>  ·  <a href="#repositories">REPOSITORIES</a>
+<a href="#projects">projects</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="#space-invaders">space invaders</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="#currently">currently</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="#contact">contact</a>
 
 </div>
 
-<div align="center">
+<br><br>
 
-<img src="./assets/kavya-lab.svg" width="100%" alt="Kavya's idea to project signal map"/>
+---
+
+<div align="center" id="space-invaders">
+
+## `KAVYA // SPACE INVADERS`
+
+### my GitHub contributions, but apparently they have to be defeated.
+
+<br>
+
+<img src="./invaders.svg" width="900" alt="Kavya's GitHub contribution Space Invaders"/>
+
+<br><br>
+
+<sub>
+CONTRIBUTIONS = ALIENS
+&nbsp;&nbsp;·&nbsp;&nbsp;
+COMMITS = LASERS
+&nbsp;&nbsp;·&nbsp;&nbsp;
+DEADLINES = BOSS FIGHTS
+</sub>
 
 </div>
 
 <br>
 
-<table align="center">
+---
+
+<a id="projects"></a>
+
+## `01 / WHO AM I`
+
+I'm **Kavya**, a Computer Science undergraduate interested in **AI/ML, intelligent systems and unusual software ideas**.
+
+I like building things that are slightly more interesting than the obvious solution.
+
+Currently somewhere between:
+
+`learning → building → breaking → fixing → shipping`
+
+<br>
+
+---
+
+## `02 / PROJECTS`
+
+<table>
 <tr>
-<td width="58%" valign="top">
+<td width="50%" valign="top">
 
-KAVYA-216
+### MITRA
 
-CSE undergraduate interested in AI/ML, intelligent systems, and building things that begin with a question rather than a tutorial.
+AI-assisted legal & support platform designed to make complex support more accessible.
 
-The usual sequence is:
+`Python` `RAG` `Supabase` `Node.js` `React`
 
-what if? → let's try it → why is the scope this big? → it works
+**Runner-up · SheBuilds**
 
 </td>
-<td width="42%" valign="top">
 
-NOW
+<td width="50%" valign="top">
 
-focus  AI / ML
-build  projects + experiments
-language  Python
-status  curious
+### UDAAN
 
-37 tabs open
+Accessibility-focused AI system built around practical real-world assistance.
+
+`Python` `TensorFlow Lite` `MediaPipe` `Solidity`
+
+**Overall Runner-up · NMIT Vibe-O-Thon**
 
 </td>
 </tr>
-</table>
 
-<div align="center" id="selected-work">
-
-SELECTED WORK
-
-</div>
-
-<table align="center">
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-01
+### ECOSENTRY
 
-MITRA
+Environmental audio intelligence with a software-simulated sensing network.
 
-AI-assisted legal & support platform.
+`Python` `SNN` `Audio Processing` `Network Simulation`
 
-Python RAG Supabase
-
-SheBuilds · Runner-Up
-
-<a href="https://github.com/Kavya-216?tab=repositories">OPEN →</a>
+Research work in progress.
 
 </td>
-<td width="33%" valign="top">
 
-02
+<td width="50%" valign="top">
 
-UDAAN
+### NEXT EXPERIMENT
 
-Accessibility-focused technology using computer vision and assistive tooling.
+Currently under construction.
 
-Python MediaPipe TFLite
+The requirements:
 
-Vibe-O-Thon · Overall Runner-Up
+`interesting`
 
-<a href="https://github.com/Kavya-216?tab=repositories">OPEN →</a>
+`useful`
 
-</td>
-<td width="33%" valign="top">
-
-03
-
-ECOSENTRY
-
-Environmental audio intelligence with spiking neural networks.
-
-Python SNN Audio
-
-Research · In Progress
-
-<a href="https://github.com/Kavya-216?tab=repositories">OPEN →</a>
-
-</td>
-</tr>
-</table>
-
-<div align="center" id="current">
-
-CURRENT
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-
-LEARNING
-
-AI / ML
-Python
-Computer Science
-
-</td>
-<td align="center" width="33%">
-
-EXPLORING
-
-Intelligent systems
-Efficient AI
-Unusual problems
-
-</td>
-<td align="center" width="33%">
-
-BUILDING
-
-Projects
-Experiments
-The next questionable idea
+`slightly unnecessary`
 
 </td>
 </tr>
@@ -146,37 +128,108 @@ The next questionable idea
 
 <br>
 
-<div align="center">
+---
 
-LEARN → BUILD → BREAK → UNDERSTAND → BUILD BETTER
+<a id="currently"></a>
 
-</div>
+## `03 / CURRENTLY`
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### LEARNING
+
+Python  
+DSA  
+AI/ML  
+Systems
+
+</td>
+
+<td width="33%" valign="top">
+
+### BUILDING
+
+Intelligent software  
+Research projects  
+Things that probably need more debugging
+
+</td>
+
+<td width="33%" valign="top">
+
+### EXPLORING
+
+Unusual project ideas  
+Better ways to build  
+Things that shouldn't work
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+## `04 / THE IMPORTANT PART`
+
+> I don't want to build another tutorial project.
+
+I want to understand something well enough to ask:
+
+**“What happens if we do this differently?”**
+
+That's usually where the interesting projects begin.
+
+<br>
+
+---
 
 <details>
-<summary><b>there's probably nothing interesting here</b></summary>
+<summary><b>DO NOT OPEN</b></summary>
 
 <br>
 
-kavya@github ~ % sudo reveal_secret
+You opened it.
 
-access denied
+There isn't a secret.
 
-Nice try.
+Unless this is the secret.
+
+Which would mean this entire section was extremely successful.
+
+<br><br>
+
+`status: suspicious`
 
 </details>
 
-<div align="center" id="repositories">
+<br>
 
-REPOSITORIES
+---
 
-<a href="https://github.com/Kavya-216?tab=repositories">OPEN THE REPOSITORIES →</a>
+<a id="contact"></a>
+
+<div align="center">
+
+## `05 / FIND ME`
+
+<a href="https://github.com/Kavya-216">
+<img src="https://img.shields.io/badge/GitHub-Kavya--216-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/KAVYA--216-18181B?style=flat-square&logo=github&logoColor=white"/>
+### still building.
 
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=15&duration=3200&pause=1100&color=A78BFA&center=true&vCenter=true&width=620&height=40&lines=thanks+for+stalking.;now+go+look+at+the+code." alt="footer"/>
+<sub>thanks for stalking responsibly.</sub>
 
 </div>
