@@ -1,135 +1,85 @@
-<!-- ANIMATED HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Animi%20Kavya!&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Undergraduate%20-%20Python%20%26%20AI/ML%20Development&descAlignY=51&descAlign=62" alt="Header" />
+  <h1 align="center">A N I M I &nbsp; K A V Y A</h1>
+  <p align="center">
+    <i>Computer Science (Honours) Undergraduate · AI/ML Developer</i>[cite: 1]
+  </p>
   
-  <br>
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=CSE+(Honours)+Undergraduate;Building+RAG+Chatbots+%26+Computer-Vision+Tools;Researching+Spiking+Neural+Networks;Award-Winning+Hackathon+Developer" alt="Typing SVG" />
-  </a>
+  <p align="center">
+    <a href="mailto:kavya@gmail.com">
+      <img src="https://img.shields.io/badge/Email-191919?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://linkedin.com/in/yourprofile">
+      <img src="https://img.shields.io/badge/LinkedIn-191919?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/Kavya-216">
+      <img src="https://img.shields.io/badge/GitHub-191919?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    </a>[cite: 1]
+  </p>
 </div>
+
+<br><br>
+
+### ✧  P R O F I L E
+
+A CSE (Honours) undergraduate specializing in building high-impact backend and AI/ML architectures[cite: 1]. My work spans intelligent systems—including RAG chatbots, computer-vision accessibility tools, and spiking neural-network signal processing[cite: 1]. I combine strong fundamentals in data structures and machine learning with proven leadership in large-scale technical initiatives[cite: 1].
 
 <br>
 
-<!-- TERMINAL STYLE INTRO -->
-<h2 align="center"> ⚡ The Main Thread </h2>
+### ✧  T E C H N I C A L &nbsp; A R S E N A L
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <code><b>> whoami</b></code><br>
-        A CSE (Honours) undergraduate who has built three award-winning backend and AI/ML projects[cite: 1].<br><br>
-        <code><b>> current_focus</b></code><br>
-        Spanning RAG chatbots, computer-vision accessibility tools, and neural-network signal processing[cite: 1]. I am also currently co-authoring a research paper on environmental audio monitoring for journal submission[cite: 1].<br><br>
-        <code><b>> background_process</b></code><br>
-        Strong fundamentals in data structures, algorithms, and machine learning, plus proven leadership running large-scale student events[cite: 1].
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-<!-- INTERACTIVE SKILL DROPDOWNS -->
-<h2 align="center"> 🛠️ Tech Stack & Arsenal </h2>
-
-<div align="center">
-  <details>
-    <summary><b>🧠 AI/ML & Data</b> (Click to expand)</summary>
-    <br>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-    <img src="https://img.shields.io/badge/Neural_Networks-000000?style=for-the-badge&logo=googlescholar&logoColor=white" />
-    <img src="https://img.shields.io/badge/RAG_Architecture-4B32C3?style=for-the-badge&logo=openai&logoColor=white" />
-  </details>
-
-  <details>
-    <summary><b>⚙️ Backend & Platforms</b> (Click to expand)</summary>
-    <br>
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-    <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  </details>
-</div>
-
-<br>
-
-<!-- FEATURED PROJECT SHOWCASE (CLEAN TABLE LAYOUT) -->
-<h2 align="center"> 🏆 Award-Winning Projects </h2>
-
-<table align="center" width="900">
+<table>
   <tr>
-    <td width="33%" align="center">
-      <h3><b>Mitra</b></h3>
-      <p><i>Runner-Up, SheBuilds</i></p>
-      <b>Tech:</b> Python, Supabase, RAG[cite: 1]
+    <td width="33%" valign="top">
+      <b>Intelligence</b><br>
+      Machine Learning[cite: 1]<br>
+      Spiking Neural Networks[cite: 1]<br>
+      TensorFlow Lite[cite: 1]<br>
+      RAG Architecture[cite: 1]
     </td>
-    <td width="33%" align="center">
-      <h3><b>Udaan</b></h3>
-      <p><i>Overall Runner-Up, Vibe-O-Thon</i></p>
-      <b>Tech:</b> MediaPipe, Solidity, TFLite[cite: 1]
+    <td width="33%" valign="top">
+      <b>Engineering</b><br>
+      Python, C, SQL[cite: 1]<br>
+      Node.js, Supabase[cite: 1]<br>
+      MediaPipe, Solidity[cite: 1]<br>
+      React / TypeScript[cite: 1]
     </td>
-    <td width="33%" align="center">
-      <h3><b>EcoSentry</b></h3>
-      <p><i>Research & Simulation</i></p>
-      <b>Tech:</b> Spiking Neural Networks[cite: 1]
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <ul>
-        <li>Engineered an AI legal chatbot using Retrieval-Augmented Generation (RAG) to parse legal documents and deliver accurate rights information[cite: 1].</li>
-        <li>Implemented mental-wellness backend logic mood tracking ("Wellness Spectrum") and Speech-to-Text processing[cite: 1].</li>
-      </ul>
-    </td>
-    <td valign="top">
-      <ul>
-        <li>Engineered a real-time sign-language recognition pipeline using MediaPipe landmark extraction and a TensorFlow Lite model[cite: 1].</li>
-        <li>Designed a decentralized Unique Disability ID (UDID) verification system via a Solidity smart contract[cite: 1].</li>
-      </ul>
-    </td>
-    <td valign="top">
-      <ul>
-        <li>Engineered an environmental audio monitoring and alert system using Spiking Neural Networks (SNNs) for real-time sound classification[cite: 1].</li>
-        <li>Simulated an IoT network gateway to route event payloads and automate alert delivery[cite: 1].</li>
-      </ul>
+    <td width="33%" valign="top">
+      <b>Fundamentals</b><br>
+      Data Structures[cite: 1]<br>
+      Algorithms[cite: 1]<br>
+      Operating Systems[cite: 1]<br>
+      Computer Networks[cite: 1]
     </td>
   </tr>
 </table>
 
 <br>
 
-<!-- ACHIEVEMENTS SECTION -->
-<h2 align="center"> 🎖️ Leadership & Achievements </h2>
-<div align="center">
-  <p>🥇 <b>Winner</b> - Eureka Ideathon by IIT Bombay (College Level)[cite: 1]</p>
-  <p>🥉 <b>3rd Place</b> - BMS Hackathon (Healthcare Track)[cite: 1]</p>
-  <p>🚀 <b>Founder & PR/Outreach Lead</b> - The Big O (Student technology initiative)[cite: 1]</p>
-</div>
+### ✧  S E L E C T E D &nbsp; W O R K
+
+**01. Mitra — Legal & Mental Aid Platform**  
+*Runner-Up, SheBuilds Hackathon*[cite: 1]  
+Engineered an AI legal chatbot utilizing Retrieval-Augmented Generation (RAG) to parse documents and deliver accurate rights information[cite: 1]. Designed the backend layer with Python and Supabase, incorporating a "Wellness Spectrum" mood tracker and Speech-to-Text processing to power support tools for women[cite: 1]. 
+
+**02. Udaan — Disability Bridge Platform**  
+*Overall Runner-Up, NMIT Vibe-O-Thon*[cite: 1]  
+Developed a real-time sign-language recognition pipeline leveraging MediaPipe landmark extraction and TensorFlow Lite[cite: 1]. Integrated a decentralized Unique Disability ID (UDID) verification system using a Solidity smart contract, paired with Twilio and OpenStreetMap for accessible SOS location services[cite: 1].
+
+**03. EcoSentry — Environmental Audio Monitoring**  
+*Research & Simulation*[cite: 1]  
+Built an end-to-end pipeline using Spiking Neural Networks (SNNs) for real-time sound classification, validated on ESC-50 and UrbanSound8K datasets[cite: 1]. Simulated an IoT network gateway to automate alert delivery and route event payloads[cite: 1]. Currently co-authoring a research paper on this architecture for journal submission[cite: 1].
 
 <br>
 
-<!-- DYNAMIC GITHUB STATS -->
-<h2 align="center"> 📊 GitHub Analytics </h2>
+### ✧  A C H I E V E M E N T S &nbsp; & &nbsp; L E A D E R S H I P
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kavya-216&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kavya-216&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-</div>
+*   **First Place:** Eureka Ideathon by IIT Bombay (College Level)[cite: 1].
+*   **Third Place:** BMS Hackathon (Healthcare Track)[cite: 1].
+*   **Founder & PR Lead:** The Big O — directed outreach and execution for multiple technical events and college tech fests[cite: 1].
+*   **Alumni Coordinator:** Directed student coordination for a major alumni meet involving over 800 alumni and 100+ volunteers[cite: 1].
 
 <br>
 
-<!-- CONNECT -->
 <div align="center">
-  <h3>Let's Connect!</h3>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:kavya@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=Kavya-216&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Kavya-216&label=Profile%20Views&color=191919&style=flat-square" alt="Profile Views" />
 </div>
