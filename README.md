@@ -1,70 +1,89 @@
-<!-- TERMINAL HEADER -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=Initializing+Kavya's+Workspace...;sudo+apt-get+install+coffee;import+ai_ml_magic;while(true)+{+build();+}&lt;Coder+/&gt;" alt="Typing SVG" />
-</h1>
+<div align="center">
+  <br>
+  <h1><code>&gt; printf("Hello, I'm Kavya.\n");</code></h1>
+  <p>
+    <i>AI/ML Developer · Multi-Agent Orchestrator · OS Enthusiast</i>
+  </p>
+  <br>
+</div>
+
+---
+
+<br>
 
 <div align="center">
-  <p><code>[root@kavya-216 ~]$ ./execute_bio.sh</code></p>
   <p>
-    Welcome to my GitHub! I build <b>intelligent AI architectures</b>, train <b>neural networks</b>, and occasionally stare at <code>fork()</code> edge cases until my OS makes sense. 
-    Powered by Python, open-source models, and an unreasonable amount of hackathon adrenaline[cite: 1].
+    Welcome to my workspace. I build <b>intelligent architectures</b>, train <b>neural networks</b>, and occasionally stare at <code>fork()</code> edge cases until my Operating System makes sense. 
   </p>
   <p>
-    <i>"It compiles on my machine... and hopefully in the cloud."</i> ☁️
+    <i>"My code is like Schrödinger's cat. It both compiles and crashes until I check the logs."</i> 🐈‍⬛
   </p>
 </div>
 
 <br>
 
-<!-- INTERACTIVE TERMINAL SECTION -->
-<h3 align="center"> ⚡ Interactive Shell (Click to Expand) </h3>
-
-<div align="center">
+### 💻 Interactive Shell (Click to Execute)
 
 <details>
-  <summary><code>$ cat current_status.txt</code></summary>
+  <summary><code>$ ./run current_status.sh</code></summary>
   <blockquote>
-    <p>🐛 <b>Debugging:</b> Multi-agent AI orchestration systems.<br>
-    📝 <b>Writing:</b> Drafting an IEEE journal paper (mostly fighting with citation formatting).<br>
-    🎧 <b>Researching:</b> Spiking Neural Networks for environmental audio processing[cite: 1].<br>
-    🧠 <b>Thinking about:</b> Short-circuit logic and process tree execution.</p>
+    <p>
+      🤖 <b>Building:</b> Multi-agent orchestration systems using open-source models.<br>
+      📝 <b>Writing:</b> An IEEE journal paper (and fighting with the citation formatting).<br>
+      🧠 <b>Researching:</b> Deep Learning architectures and audio signal processing.<br>
+      ☕ <b>Fuel:</b> Dangerously high levels of caffeine.
+    </p>
   </blockquote>
 </details>
 
 <details>
-  <summary><code>$ cat hackathon_wins.json</code></summary>
+  <summary><code>$ cat tech_stack.json</code></summary>
   <blockquote>
 <pre lang="json">
 {
-  "Eureka_Ideathon_IIT_Bombay": "Winner"[cite: 1],
-  "SheBuilds_Hackathon": "Runner-Up (Mitra - Legal RAG Chatbot)"[cite: 1],
-  "NMIT_Vibe-O-Thon": "Overall Runner-Up (Udaan - Disability Bridge)"[cite: 1],
-  "coffee_consumed_during_these": "Unquantifiable"
+  "Core": ["Python", "C"],
+  "AI_ML": ["PyTorch", "TensorFlow", "scikit-learn", "Deep Learning"],
+  "Systems": ["Linux", "Docker", "Git"],
+  "CS_Fundamentals": ["Operating Systems", "Process Trees", "Short-Circuit Logic"]
 }
 </pre>
   </blockquote>
 </details>
 
-<details>
-  <summary><code>$ grep -r "leadership" /home/kavya</code></summary>
-  <blockquote>
-    <p><code>./The_Big_O:</code> Founder & PR Lead - organized massive student tech fests[cite: 1].<br>
-    <code>./Alumni_Meet:</code> Coordinated 800+ alumni and survived to tell the tale[cite: 1].</p>
-  </blockquote>
-</details>
+<br>
 
-</div>
+### 🚀 Deployed Executables (Selected Projects)
+
+<table width="100%" align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3><b>01. Pocket Sonar</b></h3>
+      <p><i>Audio Signal Processing Application</i></p>
+      <p>An innovative app utilizing smartphone microphones, spectral analysis, and pretrained audio classification models. Built with a custom web frontend for real-time processing during a hackathon demonstration.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><b>02. Multi-Agent Orchestration</b></h3>
+      <p><i>AI System Architecture</i></p>
+      <p>Exploratory architecture integrating various open-source AI packages to build seamless, conversational chatbot interfaces powered by collaborating AI agents.</p>
+    </td>
+  </tr>
+</table>
 
 <br>
 
-<!-- TECH STACK MATRIX -->
-<h3 align="center"> 🛠️ The Tech Arsenal </h3>
+---
+
+<br>
 
 <div align="center">
-  <p><code>sudo load dependencies --modules=AI,Backend,Systems</code></p>
-  
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=00FF66" />
-  <img src="https://img.shields.io/badge/TensorFlow-14354C?style=for-the-badge&logo=tensorflow&logoColor=00FF66" />
+  <p><code>&gt; exit_and_connect()</code></p>
+  <a href="https://github.com/Kavya-216">
+    <img src="https://img.shields.io/badge/GitHub-191919?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:kavya@gmail.com">
+    <img src="https://img.shields.io/badge/Ping_Me-191919?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>  <img src="https://img.shields.io/badge/TensorFlow-14354C?style=for-the-badge&logo=tensorflow&logoColor=00FF66" />
   <img src="https://img.shields.io/badge/PyTorch-14354C?style=for-the-badge&logo=pytorch&logoColor=00FF66" />
   <img src="https://img.shields.io/badge/Node.js-14354C?style=for-the-badge&logo=node.js&logoColor=00FF66" />
   <br>
