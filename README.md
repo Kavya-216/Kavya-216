@@ -1,29 +1,59 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10061F,35:241044,65:54218C,100:8B5CF6&height=250&section=header&text=KAVYA&fontSize=76&fontColor=FFFFFF&fontAlignY=38&desc=hello%2C%20stalker.&descAlignY=62&descSize=21&descColor=E9D5FF" width="100%"/>
+<h1>Hi, I'm Kavya 👋</h1>
 
 <br>
 
-<a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=900&color=C4B5FD&center=true&vCenter=true&width=760&height=35&lines=CSE+%C2%B7+AI%2FML+%C2%B7+Python;building+things+that+probably+started+as+%22what+if...%22;learning+%C2%B7+building+%C2%B7+breaking+%C2%B7+fixing;turning+curiosity+into+slightly+unnecessary+projects;currently+trying+to+make+computers+do+interesting+things." alt="Dynamic typing text"/>
-</a>
+<table>
+<tr>
+<td width="58%" align="left" valign="middle">
+
+<h2>curiosity → code</h2>
+
+<p>
+  Computer Science undergrad exploring <strong>AI/ML</strong>, intelligent systems,
+  and software ideas that begin with “what if...?”
+</p>
+
+<p>
+  I build useful things, unusual things, and occasionally things that make me
+  ask whether “because I could” counts as a product requirement.
+</p>
+
+<p><code>learn</code> → <code>build</code> → <code>break</code> → <code>fix</code> → <code>ship</code></p>
+
+</td>
+<td width="42%" align="left" valign="middle">
+
+<pre>
+┌─ currently.exe ─────────┐
+│ status   : suspiciously online
+│ focus    : AI/ML + systems
+│ fuel     : curiosity
+│ bugs     : features pending
+│ mood     : shipping anyway
+└─────────────────────────┘
+</pre>
+
+</td>
+</tr>
+</table>
+
+<sub>hello, stalker. you found the part where the ideas become code.</sub>
 
 <br><br>
 
-<a href="#projects">projects</a>
+<a href="#projects"><strong>EXPLORE MY WORK</strong></a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="#currently">currently</a>
+<a href="#currently"><strong>WHAT I'M LEARNING</strong></a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="#contact">contact</a>
+<a href="#contact"><strong>SAY HELLO</strong></a>
 
 <br><br>
 
-<a href="https://github.com/Kavya-216">
-  <img src="https://img.shields.io/badge/GITHUB-visit%20my%20code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit Kavya's GitHub"/>
-</a>
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/EMAIL-say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Kavya"/>
-</a>
+<a href="https://github.com/Kavya-216"><img src="https://img.shields.io/badge/GitHub-Kavya--216-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit Kavya's GitHub"/></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Kavya"/></a>
+<img src="https://img.shields.io/badge/Status-building%20something%20interesting-7C3AED?style=for-the-badge" alt="Currently building something interesting"/>
 
 </div>
 
