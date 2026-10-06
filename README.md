@@ -1,98 +1,264 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090B16,45:241044,75:54218C,100:06B6D4&height=230&section=header&text=KAVYA%20%2F%2F%20SPACE%20INVADERS&fontSize=42&fontColor=FFFFFF&fontAlignY=43&desc=THE%20ARCADE%20IS%20ONLINE&descAlignY=64&descSize=18&descColor=A9F7FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10061F,35:241044,65:54218C,100:8B5CF6&height=250&section=header&text=KAVYA&fontSize=76&fontColor=FFFFFF&fontAlignY=38&desc=hello%2C%20stalker.&descAlignY=62&descSize=21&descColor=E9D5FF" width="100%"/>
 
 <br>
 
-## 👾 The invaders are here.
-
-This is a real, playable **Space Invaders-style arcade game** built with plain HTML, CSS, and JavaScript.
-No framework. No install. Just open the game and start firing.
-
-<br>
-
-<a href="./game.html">
-  <img src="./invaders.svg" width="900" alt="Open the playable Space Invaders game"/>
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=900&color=C4B5FD&center=true&vCenter=true&width=760&height=35&lines=CSE+%C2%B7+AI%2FML+%C2%B7+Python;building+things+that+probably+started+as+%22what+if...%22;learning+%C2%B7+building+%C2%B7+breaking+%C2%B7+fixing;turning+curiosity+into+slightly+unnecessary+projects;currently+trying+to+make+computers+do+interesting+things." alt="Dynamic typing text"/>
 </a>
 
 <br><br>
 
-<a href="./game.html"><strong>▶ PLAY SPACE INVADERS</strong></a>
+<a href="#contribution-game">space invaders</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="#projects">projects</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="#currently">currently</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="#contact">contact</a>
 
 <br><br>
 
-`MOVE` &nbsp; `FIRE` &nbsp; `CLEAR THE WAVE` &nbsp; `BEAT YOUR HIGH SCORE`
+<a href="https://github.com/Kavya-216">
+  <img src="https://img.shields.io/badge/GITHUB-visit%20my%20code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit Kavya's GitHub"/>
+</a>
+<a href="./game.html">
+  <img src="https://img.shields.io/badge/PLAY-contribution%20invaders-7C3AED?style=for-the-badge&logo=space-invaders&logoColor=white" alt="Play Contribution Invaders"/>
+</a>
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/EMAIL-say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Kavya"/>
+</a>
 
 </div>
 
----
-
-## 🕹️ How to play
-
-| Action | Keyboard | Touch |
-|---|---|---|
-| Move | `←` `→` or `A` `D` | ◀ / ▶ |
-| Fire | `Space` | **FIRE** |
-| Start | `Enter` or **START RUN** | **START RUN** |
-
-Destroy every alien before the formation reaches the bottom. Each cleared wave gets faster and more crowded. You have **three lives**, and your best score is saved in the browser.
-
-## ⚡ What is in the cabinet?
-
-- Three rows of neon invaders with different point values
-- Increasing waves that get faster as you survive
-- Enemy fire, hit flashes, explosions, lives, and a persistent high score
-- Responsive canvas that works on desktop and mobile
-- Touch controls for playing without a keyboard
-- A deliberately tiny dependency footprint: **zero packages**
-
-## 🚀 Run it
-
-There is nothing to install.
-
-1. Open [`game.html`](./game.html).
-2. Press **START RUN**.
-3. Move, fire, and keep the invasion off the planet.
-
-For local development, any static server works:
-
-```bash
-python3 -m http.server
-```
-
-Then open `http://localhost:8000/game.html`.
-
-## 🧠 Why this project?
-
-Because a portfolio should be something you can play, not just something you can scroll past.
-
-This little arcade cabinet is an experiment in making a familiar game from first principles: a game loop, canvas rendering, keyboard and pointer input, collision detection, wave progression, and browser persistence. The code is intentionally readable enough to tinker with.
-
-## 🔧 Project map
-
-```text
-.
-├── game.html       # the complete playable game
-├── invaders.svg    # README arcade artwork
-└── README.md       # you are here
-```
-
-## 🌌 About the pilot
-
-I'm **Kavya**, a Computer Science undergraduate interested in AI/ML, intelligent systems, and software that feels a little less ordinary.
-
-I like learning by building, breaking things on purpose, and turning “what if?” into something people can actually try.
-
-<a href="https://github.com/Kavya-216">
-  <img src="https://img.shields.io/badge/GitHub-Kavya--216-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Kavya on GitHub"/>
-</a>
+<br><br>
 
 ---
+
+<div align="center" id="contribution-game">
+
+## `KAVYA // CONTRIBUTION INVADERS`
+
+### my GitHub contributions, but apparently they have to be defeated.
+
+Like the contribution-graph Snake games people add to their profiles, this turns my GitHub activity into something playable.
+The aliens are contributions, the lasers are commits, and the deadlines are boss fights.
+
+<br>
+
+<a href="./game.html"><strong>PLAY CONTRIBUTION INVADERS -&gt;</strong></a>
+
+<br><br>
+
+<sub>
+CONTRIBUTIONS = ALIENS
+&nbsp;&nbsp;·&nbsp;&nbsp;
+COMMITS = LASERS
+&nbsp;&nbsp;·&nbsp;&nbsp;
+ARROWS / A D + SPACE = SURVIVAL
+</sub>
+
+<br><br>
+
+<a href="./game.html">open the cabinet</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="#projects">skip to the projects</a>
+
+</div>
+
+<br>
+
+---
+
+<a id="projects"></a>
+
+## `01 / WHO AM I`
+
+I'm **Kavya**, a Computer Science undergraduate interested in **AI/ML, intelligent systems and unusual software ideas**.
+
+I like building things that are slightly more interesting than the obvious solution.
+
+Currently somewhere between:
+
+`learning → building → breaking → fixing → shipping`
+
+<br>
+
+---
+
+## `02 / PROJECTS`
 
 <div align="center">
 
-### INSERT COIN. PRESS START. 👾
+<a href="#mitra">MITRA</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="#udaan">UDAAN</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="#ecosentry">ECOSENTRY</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="#next-experiment">NEXT EXPERIMENT</a>
 
-<sub>Built with curiosity, pixels, and an unreasonable number of laser shots.</sub>
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top" id="mitra">
+
+### MITRA
+
+AI-assisted legal & support platform designed to make complex support more accessible.
+
+`Python` `RAG` `Supabase` `Node.js` `React`
+
+**Runner-up · SheBuilds**
+
+</td>
+
+<td width="50%" valign="top" id="udaan">
+
+### UDAAN
+
+Accessibility-focused AI system built around practical real-world assistance.
+
+`Python` `TensorFlow Lite` `MediaPipe` `Solidity`
+
+**Overall Runner-up · NMIT Vibe-O-Thon**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top" id="ecosentry">
+
+### ECOSENTRY
+
+Environmental audio intelligence with a software-simulated sensing network.
+
+`Python` `SNN` `Audio Processing` `Network Simulation`
+
+Research work in progress.
+
+</td>
+
+<td width="50%" valign="top" id="next-experiment">
+
+### NEXT EXPERIMENT
+
+Currently under construction.
+
+The requirements:
+
+`interesting`
+
+`useful`
+
+`slightly unnecessary`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+<a id="currently"></a>
+
+## `03 / CURRENTLY`
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### LEARNING
+
+Python<br>
+DSA<br>
+AI/ML<br>
+Systems
+
+</td>
+
+<td width="33%" valign="top">
+
+### BUILDING
+
+Intelligent software<br>
+Research projects<br>
+Things that probably need more debugging
+
+</td>
+
+<td width="33%" valign="top">
+
+### EXPLORING
+
+Unusual project ideas<br>
+Better ways to build<br>
+Things that shouldn't work
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+## `04 / THE IMPORTANT PART`
+
+> I don't want to build another tutorial project.
+
+I want to understand something well enough to ask:
+
+**“What happens if we do this differently?”**
+
+That's usually where the interesting projects begin.
+
+<br>
+
+---
+
+<details>
+<summary><b>DO NOT OPEN</b></summary>
+
+<br>
+
+You opened it.
+
+There isn't a secret.
+
+Unless this is the secret.
+
+Which would mean this entire section was extremely successful.
+
+<br><br>
+
+`status: suspicious`
+
+</details>
+
+<br>
+
+---
+
+<a id="contact"></a>
+
+<div align="center">
+
+## `05 / FIND ME`
+
+<a href="https://github.com/Kavya-216">GitHub</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:your-email@example.com">Email</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="./game.html">Play the game</a>
+
+<br><br>
+
+### still building.
+
+<sub>thanks for stalking responsibly.</sub>
 
 </div>
