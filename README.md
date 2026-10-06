@@ -1,60 +1,57 @@
 <div align="center">
 
+<h1>KAVYA</h1>
+
+<p><strong>Computer Science · AI/ML · intelligent systems</strong></p>
+
+<p>
+  <a href="#projects">WORK</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="#currently">NOW</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="#contact">CONTACT</a>
+</p>
+
+<br>
+
 <table>
 <tr>
 <td align="left" width="65%">
 
-<h1>Hi, I'm Kavya 👋</h1>
+<h2>Building things that start with<br><em>“what if...?”</em></h2>
 
-<p><strong>Computer Science undergrad · AI/ML builder · professional overthinker</strong></p>
+<p>
+  I’m a CSE undergrad exploring AI/ML, intelligent systems,
+  and unusual software ideas that are more interesting than the obvious solution.
+</p>
 
-<p>Turning <em>“what if...?”</em> into useful systems,<br>
-unusual experiments, and suspiciously ambitious prototypes.</p>
-
-<code>learn</code> → <code>build</code> → <code>break</code> → <code>fix</code> → <code>ship</code>
-
-</td>
-<td align="center" width="35%">
-
-<strong>PROFILE STATUS</strong><br><br>
-🟢 <strong>ONLINE</strong><br>
-🧠 AI/ML + systems<br>
-🛠️ building in public<br>
-🐛 bugs are features pending
+<p><code>learn</code> → <code>build</code> → <code>break</code> → <code>fix</code> → <code>ship</code></p>
 
 </td>
-</tr>
-</table>
+<td align="left" width="35%">
 
-<br>
-
-<table>
-<tr>
-<td>📍 India</td>
-<td>🎓 CSE</td>
-<td>☕ powered by curiosity</td>
-</tr>
-</table>
-
-<br>
-
-<a href="#projects"><strong>✦ EXPLORE MY WORK</strong></a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="#currently"><strong>◌ WHAT I'M LEARNING</strong></a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="#contact"><strong>↗ SAY HELLO</strong></a>
+<strong>IN THE LAB</strong>
 
 <br><br>
+
+AI/ML<br>
+Systems<br>
+Research<br>
+Unnecessary prototypes
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<sub>hello, stalker. the bugs are currently being described as “interesting behaviour.”</sub>
+
+<br>
 
 <a href="https://github.com/Kavya-216">GitHub</a>
-&nbsp;·&nbsp;
+&nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="mailto:your-email@example.com">Email</a>
-&nbsp;·&nbsp;
-<a href="#projects">Projects</a>
-
-<br><br>
-
-<sub>hello, stalker. you found the UI where the ideas become code.</sub>
 
 </div>
 
