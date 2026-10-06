@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" width="1200" height="560" role="img" aria-labelledby="title desc">
   <title id="title">Kavya Space Invaders</title>
-  <desc id="desc">An animated arcade-style Space Invaders scene representing GitHub contributions.</desc>
+  <desc id="desc">An animated arcade-style Space Invaders scene.</desc>
 
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
@@ -51,7 +51,7 @@
 
   <!-- HEADER -->
   <text x="58" y="66" fill="#E8ECF7" class="mono label" font-size="15">KAVYA // SPACE INVADERS</text>
-  <text x="1142" y="66" text-anchor="end" fill="#69748F" class="mono tiny">CONTRIBUTIONS ONLINE</text>
+  <text x="1142" y="66" text-anchor="end" fill="#69748F" class="mono tiny">ARCADE ONLINE</text>
 
   <line x1="58" y1="84" x2="1142" y2="84" stroke="#65708D" stroke-opacity=".3"/>
 

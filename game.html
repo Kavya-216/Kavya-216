@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>KAVYA // CONTRIBUTION INVADERS</title>
+  <title>KAVYA // SPACE INVADERS</title>
   <style>
     :root { color-scheme: dark; --ink: #f5f7ff; --muted: #8b96b2; --line: #29334f; --cyan: #62f3e1; --pink: #ff6b93; --gold: #ffd166; --violet: #9d7bff; }
     * { box-sizing: border-box; }
@@ -34,8 +34,8 @@
 </head>
 <body>
   <main>
-    <header><h1>KAVYA // CONTRIBUTION INVADERS</h1><div class="tag">BUILD. BREAK. REPEAT.<br>THE DEADLINES ARE MOVING.</div></header>
-    <section class="cabinet" aria-label="Contribution Invaders game">
+    <header><h1>KAVYA // SPACE INVADERS</h1><div class="tag">THE ARCADE IS ONLINE.<br>THE INVADERS ARE MOVING.</div></header>
+    <section class="cabinet" aria-label="Space Invaders game">
       <div class="hud" aria-live="polite">
         <div><span class="label">SCORE</span><span class="value" id="score">00000</span></div>
         <div><span class="label">WAVE</span><span class="value" id="wave">01</span></div>
@@ -84,14 +84,14 @@
         bullets = bullets.filter(bullet => bullet.y > 0); enemyBullets = enemyBullets.filter(bullet => bullet.y < 1.1);
         bullets.forEach(bullet => enemies.forEach(enemy => { if (enemy.alive && hit(bullet, enemy, .045)) { enemy.alive = false; bullet.y = -1; state.score += (3 - enemy.row) * 10; burst(enemy.x, enemy.y, enemy.row === 0 ? '#ff6b93' : enemy.row === 1 ? '#ffd166' : '#62f3e1'); } }));
         enemyBullets.forEach(bullet => { if (hit(bullet, player, .05)) { bullet.y = 2; state.lives--; burst(player.x, player.y, '#ff6b93'); if (state.lives <= 0) end('RUN OVER'); } });
-        if (enemies.some(enemy => enemy.alive && enemy.y > .82)) end('DEADLINES WON');
+        if (enemies.some(enemy => enemy.alive && enemy.y > .82)) end('INVADERS LANDED');
         if (enemies.every(enemy => !enemy.alive)) { state.wave++; resetWave(); }
         sparks.forEach(spark => { spark.x += spark.dx * dt; spark.y += spark.dy * dt; spark.life -= dt; }); sparks = sparks.filter(spark => spark.life > 0); updateHud();
       }
       function drawShip(w, h) { const x = player.x * w, y = player.y * h; ctx.fillStyle = '#62f3e1'; ctx.shadowBlur = 14; ctx.shadowColor = '#62f3e1'; ctx.beginPath(); ctx.moveTo(x, y - h * .04); ctx.lineTo(x + w * .035, y + h * .025); ctx.lineTo(x - w * .035, y + h * .025); ctx.closePath(); ctx.fill(); ctx.shadowBlur = 0; }
       function draw() { const { w, h } = size(); ctx.clearRect(0, 0, w, h); ctx.fillStyle = '#0b1020'; ctx.fillRect(0, 0, w, h); ctx.strokeStyle = 'rgba(132, 148, 190, .08)'; for (let x = 0; x < w; x += 32) { ctx.beginPath(); ctx.moveTo(x, 0); ctx.lineTo(x, h); ctx.stroke(); } for (let y = 0; y < h; y += 32) { ctx.beginPath(); ctx.moveTo(0, y); ctx.lineTo(w, y); ctx.stroke(); }
         enemies.forEach(enemy => { if (!enemy.alive) return; const colors = ['#ff6b93', '#ffd166', '#62f3e1']; ctx.fillStyle = colors[enemy.row]; ctx.shadowBlur = 12; ctx.shadowColor = colors[enemy.row]; const x = enemy.x * w, y = enemy.y * h, r = Math.max(5, w * .018); ctx.fillRect(x - r, y - r * .55, r * 2, r); ctx.fillRect(x - r * .65, y - r, r * 1.3, r * 2); ctx.shadowBlur = 0; });
-        ctx.fillStyle = '#a9f7ff'; bullets.forEach(bullet => ctx.fillRect(bullet.x * w - 1, bullet.y * h, 2, h * .035)); ctx.fillStyle = '#ff6b93'; enemyBullets.forEach(bullet => ctx.fillRect(bullet.x * w - 2, bullet.y * h, 4, h * .025)); sparks.forEach(spark => { ctx.globalAlpha = Math.max(0, spark.life * 2); ctx.fillStyle = spark.color; ctx.fillRect(spark.x * w, spark.y * h, 3, 3); }); ctx.globalAlpha = 1; drawShip(w, h); if (!state.running && !state.over) drawMessage('CONTRIBUTION INVADERS', 'MOVE. FIRE. SHIP.'); }
+        ctx.fillStyle = '#a9f7ff'; bullets.forEach(bullet => ctx.fillRect(bullet.x * w - 1, bullet.y * h, 2, h * .035)); ctx.fillStyle = '#ff6b93'; enemyBullets.forEach(bullet => ctx.fillRect(bullet.x * w - 2, bullet.y * h, 4, h * .025)); sparks.forEach(spark => { ctx.globalAlpha = Math.max(0, spark.life * 2); ctx.fillStyle = spark.color; ctx.fillRect(spark.x * w, spark.y * h, 3, 3); }); ctx.globalAlpha = 1; drawShip(w, h); if (!state.running && !state.over) drawMessage('SPACE INVADERS', 'MOVE. FIRE. SURVIVE.'); }
       function drawMessage(title, subtitle) { const { w, h } = size(); ctx.fillStyle = 'rgba(5, 8, 18, .73)'; ctx.fillRect(0, h * .35, w, h * .3); ctx.textAlign = 'center'; ctx.fillStyle = '#f5f7ff'; ctx.font = `700 ${Math.max(16, w * .035)}px ui-monospace, monospace`; ctx.fillText(title, w / 2, h * .48); ctx.fillStyle = '#62f3e1'; ctx.font = `${Math.max(10, w * .014)}px ui-monospace, monospace`; ctx.fillText(subtitle, w / 2, h * .57); ctx.textAlign = 'start'; }
       function loop(time) { const dt = Math.min(.04, (time - state.last) / 1000 || 0); state.last = time; update(dt); draw(); requestAnimationFrame(loop); }
       window.addEventListener('resize', fit); window.addEventListener('keydown', event => { keys.add(event.key); if (['ArrowLeft', 'ArrowRight', ' ', 'a', 'd'].includes(event.key)) event.preventDefault(); if (event.key === 'Enter' && !state.running) start(); }); window.addEventListener('keyup', event => keys.delete(event.key)); startButton.addEventListener('click', start);
