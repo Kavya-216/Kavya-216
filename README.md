@@ -10,8 +10,6 @@
 
 <br><br>
 
-<a href="#contribution-game">space invaders</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="#projects">projects</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="#currently">currently</a>
@@ -23,9 +21,6 @@
 <a href="https://github.com/Kavya-216">
   <img src="https://img.shields.io/badge/GITHUB-visit%20my%20code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit Kavya's GitHub"/>
 </a>
-<a href="./game.html">
-  <img src="https://img.shields.io/badge/PLAY-contribution%20invaders-7C3AED?style=for-the-badge&logo=space-invaders&logoColor=white" alt="Play Contribution Invaders"/>
-</a>
 <a href="mailto:your-email@example.com">
   <img src="https://img.shields.io/badge/EMAIL-say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Kavya"/>
 </a>
@@ -33,43 +28,6 @@
 </div>
 
 <br><br>
-
----
-
-<div align="center" id="contribution-game">
-
-## `KAVYA // CONTRIBUTION INVADERS`
-
-### my GitHub contributions, but apparently they have to be defeated.
-
-Like the contribution-graph Snake games people add to their profiles, this turns my GitHub activity into something playable.
-The aliens are contributions, the lasers are commits, and the deadlines are boss fights.
-
-<br>
-
-<a href="./game.html"><strong>PLAY CONTRIBUTION INVADERS -&gt;</strong></a>
-
-<br><br>
-
-<sub>
-CONTRIBUTIONS = ALIENS
-&nbsp;&nbsp;·&nbsp;&nbsp;
-COMMITS = LASERS
-&nbsp;&nbsp;·&nbsp;&nbsp;
-ARROWS / A D + SPACE = SURVIVAL
-</sub>
-
-<br><br>
-
-<a href="./game.html">open the cabinet</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="#projects">skip to the projects</a>
-
-</div>
-
-<br>
-
----
 
 <a id="projects"></a>
 
@@ -252,8 +210,6 @@ Which would mean this entire section was extremely successful.
 <a href="https://github.com/Kavya-216">GitHub</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="mailto:your-email@example.com">Email</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="./game.html">Play the game</a>
 
 <br><br>
 
