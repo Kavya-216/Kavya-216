@@ -32,7 +32,15 @@
 
 <br>
 
-<img src="./invaders.svg" width="900" alt="Kavya's GitHub contribution Space Invaders"/>
+<a href="./game.html">
+<img src="./invaders.svg" width="900" alt="Open Kavya's playable Contribution Invaders game"/>
+</a>
+
+<br>
+
+<a href="./game.html"><strong>PLAY CONTRIBUTION INVADERS -&gt;</strong></a>
+
+<br>
 
 <br><br>
 
@@ -42,6 +50,8 @@ CONTRIBUTIONS = ALIENS
 COMMITS = LASERS
 &nbsp;&nbsp;·&nbsp;&nbsp;
 DEADLINES = BOSS FIGHTS
+&nbsp;&nbsp;·&nbsp;&nbsp;
+ARROWS / A D + SPACE = SURVIVAL
 </sub>
 
 </div>
