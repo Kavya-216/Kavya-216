@@ -4,198 +4,101 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2600&pause=900&color=67E8F9&center=true&vCenter=true&width=820&height=38&lines=CSE+%C2%B7+AI%2FML+%C2%B7+PYTHON;building+systems+from+curiosity+and+questionable+sleep+cycles;learning+%C2%B7+building+%C2%B7+breaking+%C2%B7+fixing;turning+%22what+if%3F%22+into+working+software;bugs+detected%3A+classified+as+research." alt="Typing introduction"/>
 
-<p><code>[ STATUS: ONLINE ]</code> &nbsp; <code>[ FOCUS: AI/ML + SYSTEMS ]</code> &nbsp; <code>[ BUGS: RESEARCH ]</code></p>
-
-<table>
-<tr>
-<td>
-<strong>✦ WELCOME, STALKER.</strong><br>
-You made it here. Have a look around — the ideas are still compiling.
-</td>
-</tr>
-</table>
-
-<br><br>
-
-<a href="#projects">WORK</a>
-&nbsp;&nbsp; // &nbsp;&nbsp;
-<a href="#currently">NOW</a>
-&nbsp;&nbsp; // &nbsp;&nbsp;
-<a href="#contact">CONTACT</a>
-
 </div>
 
 <br><br>
 
-<a id="projects"></a>
+<a id="about"></a>
 
-## `01 / WHO AM I`
+## `01 // ABOUT`
 
-I'm **Kavya**, a Computer Science undergraduate interested in **AI/ML, intelligent systems and unusual software ideas**.
+> **Computer Science undergrad building at the intersection of AI/ML and intelligent systems.**
 
-I like building things that are slightly more interesting than the obvious solution.
+I like projects with a question inside them. The kind that start as *“what if?”* and end somewhere between a working prototype and a suspicious number of open browser tabs.
 
-Currently somewhere between:
-
-`learning → building → breaking → fixing → shipping`
-
-<br>
+`learn` → `build` → `break` → `fix` → `ship`
 
 ---
 
-## `02 / PROJECTS`
+<a id="projects"></a>
 
-<div align="center">
-
-<a href="#mitra">MITRA</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="#udaan">UDAAN</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="#ecosentry">ECOSENTRY</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="#next-experiment">NEXT EXPERIMENT</a>
-
-</div>
+## `02 // SELECTED WORK`
 
 <table>
 <tr>
-<td width="50%" valign="top" id="mitra">
+<td width="50%" valign="top">
 
 ### MITRA
+AI-assisted legal and support platform making complex help easier to access.
 
-AI-assisted legal & support platform designed to make complex support more accessible.
+`Python` `RAG` `React` `Supabase`
 
-`Python` `RAG` `Supabase` `Node.js` `React`
-
-**Runner-up · SheBuilds**
+<sub>RUNNER-UP · SHEBUILDS</sub>
 
 </td>
-
-<td width="50%" valign="top" id="udaan">
+<td width="50%" valign="top">
 
 ### UDAAN
+Accessibility-focused AI built for practical, real-world assistance.
 
-Accessibility-focused AI system built around practical real-world assistance.
+`Python` `TensorFlow Lite` `MediaPipe`
 
-`Python` `TensorFlow Lite` `MediaPipe` `Solidity`
-
-**Overall Runner-up · NMIT Vibe-O-Thon**
+<sub>OVERALL RUNNER-UP · NMIT VIBE-O-THON</sub>
 
 </td>
 </tr>
-
 <tr>
-<td width="50%" valign="top" id="ecosentry">
+<td width="50%" valign="top">
 
 ### ECOSENTRY
+Environmental audio intelligence with a simulated sensing network.
 
-Environmental audio intelligence with a software-simulated sensing network.
+`Python` `SNN` `Audio Processing`
 
-`Python` `SNN` `Audio Processing` `Network Simulation`
-
-Research work in progress.
+<sub>RESEARCH IN PROGRESS</sub>
 
 </td>
-
-<td width="50%" valign="top" id="next-experiment">
+<td width="50%" valign="top">
 
 ### NEXT EXPERIMENT
+Currently under construction. Requirements: interesting, useful, slightly unnecessary.
 
-Currently under construction.
-
-The requirements:
-
-`interesting`
-
-`useful`
-
-`slightly unnecessary`
+`???` `curiosity` `more debugging`
 
 </td>
 </tr>
 </table>
-
-<br>
 
 ---
 
 <a id="currently"></a>
 
-## `03 / CURRENTLY`
+## `03 // CURRENT SIGNAL`
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### LEARNING
-
-Python<br>
-DSA<br>
-AI/ML<br>
-Systems
-
-</td>
-
-<td width="33%" valign="top">
-
-### BUILDING
-
-Intelligent software<br>
-Research projects<br>
-Things that probably need more debugging
-
-</td>
-
-<td width="33%" valign="top">
-
-### EXPLORING
-
-Unusual project ideas<br>
-Better ways to build<br>
-Things that shouldn't work
-
-</td>
-</tr>
-</table>
-
-<br>
+| LEARNING | BUILDING | EXPLORING |
+|---|---|---|
+| Python<br>DSA<br>AI/ML<br>Systems | Intelligent software<br>Research projects<br>Things that need debugging | Unusual ideas<br>Better ways to build<br>Things that should not work |
 
 ---
 
-## `04 / THE IMPORTANT PART`
+## `04 // OPERATING PRINCIPLE`
 
-> I don't want to build another tutorial project.
+I don't want to build another tutorial project.
 
 I want to understand something well enough to ask:
 
-**“What happens if we do this differently?”**
+> **“What happens if we do this differently?”**
 
-That's usually where the interesting projects begin.
-
-<br>
-
----
+That is usually where the interesting work begins.
 
 <details>
-<summary><b>DO NOT OPEN</b></summary>
+<summary><strong>▸ PRIVATE LOG</strong></summary>
 
-<br>
-
-You opened it.
-
-There isn't a secret.
-
-Unless this is the secret.
-
-Which would mean this entire section was extremely successful.
-
-<br><br>
-
-`status: suspicious`
+`status: suspicious`<br>
+`coffee: compensating`<br>
+`bugs: described as research`
 
 </details>
-
-<br>
 
 ---
 
@@ -203,16 +106,14 @@ Which would mean this entire section was extremely successful.
 
 <div align="center">
 
-## `05 / FIND ME`
+## `05 // OPEN CHANNEL`
 
-<a href="https://github.com/Kavya-216">GitHub</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="mailto:your-email@example.com">Email</a>
+<a href="https://github.com/Kavya-216">GITHUB</a>
+&nbsp;&nbsp; // &nbsp;&nbsp;
+<a href="mailto:your-email@example.com">EMAIL</a>
 
 <br><br>
 
-### still building.
-
-<sub>thanks for stalking responsibly.</sub>
+<sub>thanks for stopping by. the next experiment is probably already compiling.</sub>
 
 </div>
