@@ -6,7 +6,14 @@
 
 <p><code>[ STATUS: ONLINE ]</code> &nbsp; <code>[ FOCUS: AI/ML + SYSTEMS ]</code> &nbsp; <code>[ BUGS: RESEARCH ]</code></p>
 
-<sub>hello, stalker. you found the neon corner of the internet.</sub>
+<table>
+<tr>
+<td>
+<strong>✦ WELCOME, STALKER.</strong><br>
+You made it here. Have a look around — the ideas are still compiling.
+</td>
+</tr>
+</table>
 
 <br><br>
 
