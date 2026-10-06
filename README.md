@@ -2,9 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:111B3D,75:24115C,100:06B6D4&height=220&section=header&text=KAVYA&fontSize=82&fontColor=E8F7FF&fontAlignY=42&desc=SIGNAL%20FOUND%20%2F%2F%20SYSTEM%20ONLINE&descAlignY=66&descSize=16&descColor=67E8F9" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2600&pause=900&color=67E8F9&center=true&vCenter=true&width=820&height=38&lines=CSE+%C2%B7+AI%2FML+%C2%B7+PYTHON;building+systems+from+curiosity+and+questionable+睡+cycles;learning+%C2%B7+building+%C2%B7+breaking+%C2%B7+fixing;turning+%22what+if%3F%22+into+working+software;bugs+detected%3A+classified+as+research." alt="Typing introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2600&pause=900&color=67E8F9&center=true&vCenter=true&width=820&height=38&lines=CSE+%C2%B7+AI%2FML+%C2%B7+PYTHON;building+systems+from+curiosity+and+questionable+sleep+cycles;learning+%C2%B7+building+%C2%B7+breaking+%C2%B7+fixing;turning+%22what+if%3F%22+into+working+software;bugs+detected%3A+classified+as+research." alt="Typing introduction"/>
 
 <p><code>[ STATUS: ONLINE ]</code> &nbsp; <code>[ FOCUS: AI/ML + SYSTEMS ]</code> &nbsp; <code>[ BUGS: RESEARCH ]</code></p>
+
+<sub>hello, stalker. you found the neon corner of the internet.</sub>
+
+<br><br>
 
 <a href="#projects">WORK</a>
 &nbsp;&nbsp; // &nbsp;&nbsp;
