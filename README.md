@@ -10,7 +10,7 @@
 
 <a id="about"></a>
 
-## `01 // ABOUT`
+## About me
 
 > **Computer Science undergrad building at the intersection of AI/ML and intelligent systems.**
 
@@ -22,7 +22,7 @@ I like projects with a question inside them. The kind that start as *“what if?
 
 <a id="projects"></a>
 
-## `02 // SELECTED WORK`
+## Selected work
 
 <table>
 <tr>
@@ -73,7 +73,7 @@ Currently under construction. Requirements: interesting, useful, slightly unnece
 
 <a id="currently"></a>
 
-## `03 // CURRENT SIGNAL`
+## Currently
 
 | LEARNING | BUILDING | EXPLORING |
 |---|---|---|
@@ -81,7 +81,7 @@ Currently under construction. Requirements: interesting, useful, slightly unnece
 
 ---
 
-## `04 // OPERATING PRINCIPLE`
+## What I believe
 
 I don't want to build another tutorial project.
 
@@ -106,7 +106,7 @@ That is usually where the interesting work begins.
 
 <div align="center">
 
-## `05 // OPEN CHANNEL`
+## Find me
 
 <a href="https://github.com/Kavya-216">GITHUB</a>
 &nbsp;&nbsp; // &nbsp;&nbsp;
