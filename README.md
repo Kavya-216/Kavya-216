@@ -1,57 +1,16 @@
 <div align="center">
 
-<h1>KAVYA</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:111B3D,75:24115C,100:06B6D4&height=220&section=header&text=KAVYA&fontSize=82&fontColor=E8F7FF&fontAlignY=42&desc=SIGNAL%20FOUND%20%2F%2F%20SYSTEM%20ONLINE&descAlignY=66&descSize=16&descColor=67E8F9" width="100%"/>
 
-<p><strong>Computer Science · AI/ML · intelligent systems</strong></p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2600&pause=900&color=67E8F9&center=true&vCenter=true&width=820&height=38&lines=CSE+%C2%B7+AI%2FML+%C2%B7+PYTHON;building+systems+from+curiosity+and+questionable+睡+cycles;learning+%C2%B7+building+%C2%B7+breaking+%C2%B7+fixing;turning+%22what+if%3F%22+into+working+software;bugs+detected%3A+classified+as+research." alt="Typing introduction"/>
 
-<p>
-  <a href="#projects">WORK</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="#currently">NOW</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="#contact">CONTACT</a>
-</p>
+<p><code>[ STATUS: ONLINE ]</code> &nbsp; <code>[ FOCUS: AI/ML + SYSTEMS ]</code> &nbsp; <code>[ BUGS: RESEARCH ]</code></p>
 
-<br>
-
-<table>
-<tr>
-<td align="left" width="65%">
-
-<h2>Building things that start with<br><em>“what if...?”</em></h2>
-
-<p>
-  I’m a CSE undergrad exploring AI/ML, intelligent systems,
-  and unusual software ideas that are more interesting than the obvious solution.
-</p>
-
-<p><code>learn</code> → <code>build</code> → <code>break</code> → <code>fix</code> → <code>ship</code></p>
-
-</td>
-<td align="left" width="35%">
-
-<strong>IN THE LAB</strong>
-
-<br><br>
-
-AI/ML<br>
-Systems<br>
-Research<br>
-Unnecessary prototypes
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<sub>hello, stalker. the bugs are currently being described as “interesting behaviour.”</sub>
-
-<br>
-
-<a href="https://github.com/Kavya-216">GitHub</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="mailto:your-email@example.com">Email</a>
+<a href="#projects">WORK</a>
+&nbsp;&nbsp; // &nbsp;&nbsp;
+<a href="#currently">NOW</a>
+&nbsp;&nbsp; // &nbsp;&nbsp;
+<a href="#contact">CONTACT</a>
 
 </div>
 
