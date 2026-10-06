@@ -1,59 +1,60 @@
 <div align="center">
 
-<h1>Hi, I'm Kavya 👋</h1>
-
-<br>
-
 <table>
 <tr>
-<td width="58%" align="left" valign="middle">
+<td align="left" width="65%">
 
-<h2>curiosity → code</h2>
+<h1>Hi, I'm Kavya 👋</h1>
 
-<p>
-  Computer Science undergrad exploring <strong>AI/ML</strong>, intelligent systems,
-  and software ideas that begin with “what if...?”
-</p>
+<p><strong>Computer Science undergrad · AI/ML builder · professional overthinker</strong></p>
 
-<p>
-  I build useful things, unusual things, and occasionally things that make me
-  ask whether “because I could” counts as a product requirement.
-</p>
+<p>Turning <em>“what if...?”</em> into useful systems,<br>
+unusual experiments, and suspiciously ambitious prototypes.</p>
 
-<p><code>learn</code> → <code>build</code> → <code>break</code> → <code>fix</code> → <code>ship</code></p>
+<code>learn</code> → <code>build</code> → <code>break</code> → <code>fix</code> → <code>ship</code>
 
 </td>
-<td width="42%" align="left" valign="middle">
+<td align="center" width="35%">
 
-<pre>
-┌─ currently.exe ─────────┐
-│ status   : suspiciously online
-│ focus    : AI/ML + systems
-│ fuel     : curiosity
-│ bugs     : features pending
-│ mood     : shipping anyway
-└─────────────────────────┘
-</pre>
+<strong>PROFILE STATUS</strong><br><br>
+🟢 <strong>ONLINE</strong><br>
+🧠 AI/ML + systems<br>
+🛠️ building in public<br>
+🐛 bugs are features pending
 
 </td>
 </tr>
 </table>
 
-<sub>hello, stalker. you found the part where the ideas become code.</sub>
+<br>
+
+<table>
+<tr>
+<td>📍 India</td>
+<td>🎓 CSE</td>
+<td>☕ powered by curiosity</td>
+</tr>
+</table>
+
+<br>
+
+<a href="#projects"><strong>✦ EXPLORE MY WORK</strong></a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="#currently"><strong>◌ WHAT I'M LEARNING</strong></a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="#contact"><strong>↗ SAY HELLO</strong></a>
 
 <br><br>
 
-<a href="#projects"><strong>EXPLORE MY WORK</strong></a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="#currently"><strong>WHAT I'M LEARNING</strong></a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="#contact"><strong>SAY HELLO</strong></a>
+<a href="https://github.com/Kavya-216">GitHub</a>
+&nbsp;·&nbsp;
+<a href="mailto:your-email@example.com">Email</a>
+&nbsp;·&nbsp;
+<a href="#projects">Projects</a>
 
 <br><br>
 
-<a href="https://github.com/Kavya-216"><img src="https://img.shields.io/badge/GitHub-Kavya--216-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit Kavya's GitHub"/></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Kavya"/></a>
-<img src="https://img.shields.io/badge/Status-building%20something%20interesting-7C3AED?style=for-the-badge" alt="Currently building something interesting"/>
+<sub>hello, stalker. you found the UI where the ideas become code.</sub>
 
 </div>
 
