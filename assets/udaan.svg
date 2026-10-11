@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 130" width="480" height="130" role="img" aria-labelledby="t d">
+<title id="t">Udaan glyph</title><desc id="d">Viewfinder corners around a small keypoint graph.</desc>
+<defs><pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#14161A" stroke-opacity=".07"/></pattern></defs>
+<rect width="480" height="130" fill="#F1ECE0"/><rect width="480" height="130" fill="url(#g)"/><rect x="12" y="12" width="456" height="106" fill="none" stroke="#14161A" stroke-width="1.2"/><path d="M0 12H6M12 0V6M480 12H474M468 0V6M0 118H6M12 130V124M480 118H474M468 130V124" stroke="#14161A" stroke-width="1" fill="none"/>
+<path d="M80 40V26H94" stroke="#E4572E" stroke-width="2.4" fill="none"/>
+<path d="M220 40V26H206" stroke="#E4572E" stroke-width="2.4" fill="none"/>
+<path d="M80 92V106H94" stroke="#E4572E" stroke-width="2.4" fill="none"/>
+<path d="M220 92V106H206" stroke="#E4572E" stroke-width="2.4" fill="none"/>
+<path d="M102.0 44.8L150.0 32.0L191.6 51.2L172.4 86.4L127.6 76.8Z" stroke="#14161A" stroke-opacity=".55" fill="none"/>
+<path d="M146.8 57.6L102.0 44.8M146.8 57.6L191.6 51.2M146.8 57.6L127.6 76.8" stroke="#14161A" stroke-opacity=".35"/>
+<circle cx="102.0" cy="44.8" r="4.2" fill="#14161A"/>
+<circle cx="150.0" cy="32.0" r="4.2" fill="#14161A"/>
+<circle cx="191.6" cy="51.2" r="4.2" fill="#14161A"/>
+<circle cx="127.6" cy="76.8" r="4.2" fill="#14161A"/>
+<circle cx="172.4" cy="86.4" r="4.2" fill="#14161A"/>
+<circle cx="146.8" cy="57.6" r="4.2" fill="#14161A"/>
+<text x="260" y="56" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#14161A" text-anchor="start" font-weight="bold" letter-spacing="2" font-style="normal" >ACCESSIBILITY</text>
+<text x="260" y="76" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#6B665C" text-anchor="start" font-weight="normal" letter-spacing="2" font-style="normal" >COMPUTER VISION</text>
+</svg>

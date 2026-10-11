@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 150" width="1000" height="150" role="img" aria-labelledby="t d">
+<title id="t">Protocol: question, prototype, break, understand, ship</title><desc id="d">A loop: question, prototype, break, understand, ship, then back to question.</desc>
+<defs><pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#14161A" stroke-opacity=".07"/></pattern></defs>
+<rect width="1000" height="150" fill="#F1ECE0"/><rect width="1000" height="150" fill="url(#g)"/><rect x="12" y="12" width="976" height="126" fill="none" stroke="#14161A" stroke-width="1.2"/><path d="M0 12H6M12 0V6M1000 12H994M988 0V6M0 138H6M12 150V144M1000 138H994M988 150V144" stroke="#14161A" stroke-width="1" fill="none"/>
+<text x="44" y="40" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#14161A" text-anchor="start" font-weight="normal" letter-spacing="2" font-style="normal" >FIG. 02 · PROTOCOL</text>
+<text x="956" y="40" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#6B665C" text-anchor="end" font-weight="normal" letter-spacing="2" font-style="normal" >RUNS UNTIL IT STOPS BEING WRONG</text>
+<rect x="35" y="56" width="150" height="38" rx="19" fill="none" stroke="#14161A" stroke-width="1.2"/>
+<text x="110" y="80" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#14161A" text-anchor="middle" font-weight="bold" letter-spacing="0" font-style="normal" >question</text>
+<path d="M192 75H217" stroke="#14161A" stroke-width="1.2"/>
+<path d="M216 71L223 75L216 79Z" fill="#14161A"/>
+<rect x="230" y="56" width="150" height="38" rx="19" fill="none" stroke="#14161A" stroke-width="1.2"/>
+<text x="305" y="80" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#14161A" text-anchor="middle" font-weight="bold" letter-spacing="0" font-style="normal" >prototype</text>
+<path d="M387 75H412" stroke="#14161A" stroke-width="1.2"/>
+<path d="M411 71L418 75L411 79Z" fill="#14161A"/>
+<rect x="425" y="56" width="150" height="38" rx="19" fill="#E4572E" stroke="#14161A" stroke-width="1.2"/>
+<text x="500" y="80" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#F1ECE0" text-anchor="middle" font-weight="bold" letter-spacing="0" font-style="normal" >break</text>
+<path d="M582 75H607" stroke="#14161A" stroke-width="1.2"/>
+<path d="M606 71L613 75L606 79Z" fill="#14161A"/>
+<rect x="620" y="56" width="150" height="38" rx="19" fill="none" stroke="#14161A" stroke-width="1.2"/>
+<text x="695" y="80" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#14161A" text-anchor="middle" font-weight="bold" letter-spacing="0" font-style="normal" >understand</text>
+<path d="M777 75H802" stroke="#14161A" stroke-width="1.2"/>
+<path d="M801 71L808 75L801 79Z" fill="#14161A"/>
+<rect x="815" y="56" width="150" height="38" rx="19" fill="none" stroke="#14161A" stroke-width="1.2"/>
+<text x="890" y="80" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#14161A" text-anchor="middle" font-weight="bold" letter-spacing="0" font-style="normal" >ship</text>
+<path d="M890 96V122H110V102" stroke="#E4572E" stroke-width="1.4" fill="none" stroke-dasharray="5 5"><animate attributeName="stroke-dashoffset" from="20" to="0" dur="1.4s" repeatCount="indefinite"/></path>
+<path d="M105 104L110 97L115 104Z" fill="#E4572E"/>
+<rect x="380" y="113" width="240" height="18" fill="#F1ECE0"/>
+<text x="500" y="126" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#E4572E" text-anchor="middle" font-weight="normal" letter-spacing="0" font-style="normal" >repeat — with a better question</text>
+</svg>

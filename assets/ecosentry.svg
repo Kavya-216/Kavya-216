@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 130" width="480" height="130" role="img" aria-labelledby="t d">
+<title id="t">EcoSentry glyph</title><desc id="d">An audio waveform with one highlighted event.</desc>
+<defs><pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#14161A" stroke-opacity=".07"/></pattern></defs>
+<rect width="480" height="130" fill="#F1ECE0"/><rect width="480" height="130" fill="url(#g)"/><rect x="12" y="12" width="456" height="106" fill="none" stroke="#14161A" stroke-width="1.2"/><path d="M0 12H6M12 0V6M480 12H474M468 0V6M0 118H6M12 130V124M480 118H474M468 130V124" stroke="#14161A" stroke-width="1" fill="none"/>
+<path d="M40 59.0V73.0" stroke="#14161A" stroke-opacity="0.6" stroke-width="3" stroke-linecap="round"/>
+<path d="M48 59.4V72.6" stroke="#14161A" stroke-opacity="0.6" stroke-width="3" stroke-linecap="round"/>
+<path d="M56 57.6V74.4" stroke="#14161A" stroke-opacity="0.6" stroke-width="3" stroke-linecap="round"/>
+<path d="M64 56.7V75.3" stroke="#14161A" stroke-opacity="0.6" stroke-width="3" stroke-linecap="round"/>
+<path d="M72 57.0V75.0" stroke="#14161A" stroke-opacity="0.6" stroke-width="3" stroke-linecap="round"/>
+<path d="M80 58.8V73.2" stroke="#14161A" stroke-opacity="0.6" stroke-width="3" stroke-linecap="round"/>
+<path d="M88 53.5V78.5" stroke="#14161A" stroke-opacity="0.6" stroke-width="3" stroke-linecap="round"/>
+<path d="M96 56.8V75.2" stroke="#14161A" stroke-opacity="0.6" stroke-width="3" stroke-linecap="round"/>
+<path d="M104 50.4V81.6" stroke="#14161A" stroke-opacity="0.6" stroke-width="3" stroke-linecap="round"/>
+<path d="M112 52.1V79.9" stroke="#14161A" stroke-opacity="0.6" stroke-width="3" stroke-linecap="round"/>
+<path d="M120 50.1V81.9" stroke="#14161A" stroke-opacity="0.6" stroke-width="3" stroke-linecap="round"/>
+<path d="M128 46.1V85.9" stroke="#14161A" stroke-opacity="0.6" stroke-width="3" stroke-linecap="round"/>
+<path d="M136 49.6V82.4" stroke="#14161A" stroke-opacity="0.6" stroke-width="3" stroke-linecap="round"/>
+<path d="M144 41.3V90.7" stroke="#14161A" stroke-opacity="0.6" stroke-width="3" stroke-linecap="round"/>
+<path d="M152 41.5V90.5" stroke="#14161A" stroke-opacity="0.6" stroke-width="3" stroke-linecap="round"/>
+<path d="M160 33.5V98.5" stroke="#14161A" stroke-opacity="0.6" stroke-width="3" stroke-linecap="round"/>
+<path d="M168 33.9V98.1" stroke="#E4572E" stroke-opacity="1" stroke-width="3" stroke-linecap="round"/>
+<path d="M176 39.7V92.3" stroke="#E4572E" stroke-opacity="1" stroke-width="3" stroke-linecap="round"/>
+<path d="M184 25.8V106.2" stroke="#E4572E" stroke-opacity="1" stroke-width="3" stroke-linecap="round"/>
+<path d="M192 31.5V100.5" stroke="#E4572E" stroke-opacity="1" stroke-width="3" stroke-linecap="round"/>
+<path d="M200 31.3V100.7" stroke="#E4572E" stroke-opacity="1" stroke-width="3" stroke-linecap="round"/>
+<path d="M208 24.6V107.4" stroke="#E4572E" stroke-opacity="1" stroke-width="3" stroke-linecap="round"/>
+<path d="M216 37.0V95.0" stroke="#14161A" stroke-opacity="0.6" stroke-width="3" stroke-linecap="round"/>
+<path d="M224 33.7V98.3" stroke="#14161A" stroke-opacity="0.6" stroke-width="3" stroke-linecap="round"/>
+<path d="M232 38.1V93.9" stroke="#14161A" stroke-opacity="0.6" stroke-width="3" stroke-linecap="round"/>
+<path d="M240 40.5V91.5" stroke="#14161A" stroke-opacity="0.6" stroke-width="3" stroke-linecap="round"/>
+<path d="M248 44.9V87.1" stroke="#14161A" stroke-opacity="0.6" stroke-width="3" stroke-linecap="round"/>
+<path d="M256 50.5V81.5" stroke="#14161A" stroke-opacity="0.6" stroke-width="3" stroke-linecap="round"/>
+<path d="M264 51.7V80.3" stroke="#14161A" stroke-opacity="0.6" stroke-width="3" stroke-linecap="round"/>
+<path d="M272 51.4V80.6" stroke="#14161A" stroke-opacity="0.6" stroke-width="3" stroke-linecap="round"/>
+<path d="M280 54.4V77.6" stroke="#14161A" stroke-opacity="0.6" stroke-width="3" stroke-linecap="round"/>
+<path d="M288 54.2V77.8" stroke="#14161A" stroke-opacity="0.6" stroke-width="3" stroke-linecap="round"/>
+<path d="M296 55.9V76.1" stroke="#14161A" stroke-opacity="0.6" stroke-width="3" stroke-linecap="round"/>
+<text x="320" y="56" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#14161A" text-anchor="start" font-weight="bold" letter-spacing="2" font-style="normal" >ENVIRONMENTAL</text>
+<text x="320" y="76" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#6B665C" text-anchor="start" font-weight="normal" letter-spacing="2" font-style="normal" >AUDIO SIGNALS</text>
+</svg>

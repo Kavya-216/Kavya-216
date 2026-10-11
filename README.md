@@ -1,58 +1,27 @@
-<div align="center">
+<p align="center">
+  <img src="assets/hero.svg" width="100%" alt="Hello, stalker. A scatter plot of an embedding space where the query “what if…” retrieves three projects: Mitra, Udaan and EcoSentry.">
+</p>
 
-<img src="./assets/field-notebook.svg" width="100%" alt="WHAT IF? — Kavya, building AI and backend systems"/>
+I'm **Kavya**, a Computer Science & Engineering undergrad (Honours) who keeps getting pulled toward the part of a system everyone else skipped: the data layer, the edge case that was quietly waiting in production, the assumption nobody questioned.
 
-<br><br>
+I like AI/ML best when it turns into something a person can actually use, and backend work when it lets a demo survive contact with reality. Most of what's below started as a question.
 
-**Computer Science & Engineering undergraduate · Honours**
+<p align="center">
+  <img src="assets/method.svg" width="100%" alt="Protocol: question, prototype, break, understand, ship, then repeat with a better question.">
+</p>
 
-I build useful software at the intersection of **AI/ML, backend systems, and unconventional questions**.
+<p align="center">
+  <img src="assets/sec-results.svg" width="100%" alt="01 Results, ranked by relevance, not by date">
+</p>
 
-[GitHub](https://github.com/Kavya-216) · [Mitra](https://github.com/Kavya-216/Mitra-Legal_and_Mental_aid_for_Women) · [Udaan](https://github.com/Kavya-216/Udaan-Disability_Bridge)
+<p align="center">
+  <img src="assets/mitra.svg" width="100%" alt="Mitra, Legal & Mental Aid Platform for Women. Runner-up at the SheBuilds Hackathon. A simplified flow: a question goes through Python RAG retrieval to a Supabase data layer holding legal resources and mental-health support, which is the part I built, and returns a grounded answer.">
+</p>
 
-</div>
-
-<br>
-
-## A little context
-
-I am interested in the space between a promising idea and a reliable product: the retrieval pipeline, the database schema, the API that has to behave, and the edge case nobody put in the demo.
-
-My work spans **machine learning, neural networks, RAG systems, computer vision, accessibility, databases, and backend architecture**. I also organise student technology events — mostly by turning chaos into something with a deadline.
-
-## Work worth opening
-
-<table>
-<tr>
-<td width="64%" valign="top">
-
-### MITRA
-#### Legal & Mental Aid Platform for Women
-
-An AI-assisted platform for making legal resources and mental-health support easier to access.
-
-I worked on the **backend and database layer**, building the foundation for resources, support flows, and retrieval.
-
-`Python` `Supabase` `RAG` `Node.js` `React / TypeScript`
-
-**Runner-up · SheBuilds Hackathon**
-
-<a href="https://github.com/Kavya-216/Mitra-Legal_and_Mental_aid_for_Women">open the repository →</a>
-
-</td>
-<td width="36%" valign="top">
-
-**The question**
-
-How do you make help feel less like a maze?
-
-**The constraint**
-
-Useful AI must survive real people, real data, and real edge cases.
-
-</td>
-</tr>
-</table>
+**What it is.** An AI-assisted platform that makes legal resources and mental-health support easier for women to reach.<br>
+**What I built.** The backend and database layer behind the legal-resource and mental-health content.<br>
+**Stack.** `Python` · `Supabase` · `RAG` · `Node.js` · `React / TypeScript` (the basics)<br>
+**Result.** Runner-up, SheBuilds Hackathon.
 
 <br>
 
@@ -60,54 +29,40 @@ Useful AI must survive real people, real data, and real edge cases.
 <tr>
 <td width="50%" valign="top">
 
-### UDAAN
-#### Bridging the Accessibility Gap
+<img src="assets/udaan.svg" width="100%" alt="Viewfinder corners around a small keypoint graph: accessibility, computer vision.">
 
-An accessibility ecosystem spanning employment, welfare, advocacy, voice interaction, computer vision, and support tools.
-
-`React` `Node.js` `SQLite` `Supabase` `Solidity` `MediaPipe`
-
-<a href="https://github.com/Kavya-216/Udaan-Disability_Bridge">open the repository →</a>
+**Udaan**<br>
+Computer-vision work aimed at practical, real-world accessibility. An award-winning project.<br>
+`Python` · `TensorFlow Lite` · `MediaPipe`
 
 </td>
 <td width="50%" valign="top">
 
-### Other experiments
+<img src="assets/ecosentry.svg" width="100%" alt="An audio waveform with one highlighted event: environmental audio signals.">
 
-Public work exploring:
-
-`causal RL` · `generative AI` · `blockchain` · `rover simulation` · `systems`
-
-Not every experiment needs a spotlight. Some are still being interrogated.
+**EcoSentry**<br>
+An exploration of environmental audio intelligence and neural-network signal processing.<br>
+`Python` · `Neural Networks` · `Audio Processing`
 
 </td>
 </tr>
 </table>
 
-## Technical map
-
-| BUILD | THINK | MAKE RELIABLE |
-|---|---|---|
-| Python · C · SQL<br>JavaScript · TypeScript | ML · neural networks<br>RAG · computer vision · data mining | APIs · databases<br>backend · accessibility |
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Kavya-216&show_icons=true&hide_border=true&bg_color=0D0E12&title_color=D7FF64&icon_color=D7FF64&text_color=F4F1E8&ring_color=D7FF64&include_all_commits=true" height="150" alt="Kavya's GitHub activity summary"/>
-
 <br>
 
-<sub>The instrument panel is optional. The questions are not.</sub>
+<p align="center">
+  <img src="assets/sec-toolkit.svg" width="100%" alt="02 Toolkit, what's on the bench">
+</p>
 
-</div>
+```text
+languages  Python · C · SQL · JS · TS
+ai / ml    ML · neural nets · RAG · CV
+backend    Node.js · Supabase · APIs
+interface  React, the basics
+```
 
-<br>
+Off the bench: organising student tech events and building things with other people.
 
-<div align="center">
-
-`WHAT IF?` &nbsp; → &nbsp; `TRY IT` &nbsp; → &nbsp; `FIND OUT`
-
-<br><br>
-
-<sub>still building · assumptions remain editable</sub>
-
-</div>
+<p align="center">
+  <img src="assets/ending.svg" width="100%" alt="No further results. The query point from the top of the page, with its three results.">
+</p>
