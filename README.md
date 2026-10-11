@@ -1,66 +1,54 @@
 <div align="center">
 
-<img src="./assets/field-notebook.svg" width="100%" alt="Kavya's field notebook: interesting software starts with a better question"/>
+<img src="./assets/field-notebook.svg" width="100%" alt="WHAT IF? — Kavya, building AI and backend systems"/>
 
-</div>
+<br><br>
 
-<br>
+**Computer Science & Engineering undergraduate · Honours**
 
-<div align="center">
-
-`COMPUTER SCIENCE & ENGINEERING · HONOURS · INDIA`
-
-### **Hello, curious human.**
-
-I build practical AI and backend systems — then spend an unreasonable amount of time asking whether the original problem was framed correctly.
+I build useful software at the intersection of **AI/ML, backend systems, and unconventional questions**.
 
 [GitHub](https://github.com/Kavya-216) · [Mitra](https://github.com/Kavya-216/Mitra-Legal_and_Mental_aid_for_Women) · [Udaan](https://github.com/Kavya-216/Udaan-Disability_Bridge)
 
 </div>
 
----
+<br>
 
-## The short version
+## A little context
 
-I like the part of software that sits between an idea and its proof:
+I am interested in the space between a promising idea and a reliable product: the retrieval pipeline, the database schema, the API that has to behave, and the edge case nobody put in the demo.
 
-**a useful question** → **a stubborn prototype** → **a system someone can actually use**
+My work spans **machine learning, neural networks, RAG systems, computer vision, accessibility, databases, and backend architecture**. I also organise student technology events — mostly by turning chaos into something with a deadline.
 
-My work lives across **AI/ML, retrieval-augmented generation, backend architecture, databases, computer vision, and accessibility**. I also help organise student technology events, which is a polite way of saying I enjoy turning chaos into a schedule.
-
-## Workbench
+## Work worth opening
 
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="64%" valign="top">
 
 ### MITRA
 #### Legal & Mental Aid Platform for Women
 
-The project currently closest to the centre of the map: an AI-assisted platform for making legal resources and mental-health support easier to access.
+An AI-assisted platform for making legal resources and mental-health support easier to access.
 
-I worked on the **backend and database layer**, including the foundation around resources, support flows, and retrieval.
+I worked on the **backend and database layer**, building the foundation for resources, support flows, and retrieval.
 
 `Python` `Supabase` `RAG` `Node.js` `React / TypeScript`
 
 **Runner-up · SheBuilds Hackathon**
 
-<a href="https://github.com/Kavya-216/Mitra-Legal_and_Mental_aid_for_Women">read the repository →</a>
+<a href="https://github.com/Kavya-216/Mitra-Legal_and_Mental_aid_for_Women">open the repository →</a>
 
 </td>
-<td width="38%" valign="top">
+<td width="36%" valign="top">
 
-### The brief
+**The question**
 
-Build help that feels less like a maze.
+How do you make help feel less like a maze?
 
-### The constraint
+**The constraint**
 
-Useful AI has to survive contact with real people, real data, and real edge cases.
-
-### The note
-
-The database is not “just storage.” It is where the product remembers what matters.
+Useful AI must survive real people, real data, and real edge cases.
 
 </td>
 </tr>
@@ -75,79 +63,51 @@ The database is not “just storage.” It is where the product remembers what m
 ### UDAAN
 #### Bridging the Accessibility Gap
 
-An integrated accessibility ecosystem spanning employment, welfare, advocacy, voice interaction, computer vision, and verified support tools.
+An accessibility ecosystem spanning employment, welfare, advocacy, voice interaction, computer vision, and support tools.
 
-Its documented architecture includes React, Node.js, SQLite, Supabase, Solidity, MediaPipe, RAG/NLP, and multilingual speech recognition.
+`React` `Node.js` `SQLite` `Supabase` `Solidity` `MediaPipe`
 
-<a href="https://github.com/Kavya-216/Udaan-Disability_Bridge">inspect the build →</a>
+<a href="https://github.com/Kavya-216/Udaan-Disability_Bridge">open the repository →</a>
 
 </td>
 <td width="50%" valign="top">
 
-### More signals
+### Other experiments
 
-Public repositories also include experiments in:
+Public work exploring:
 
-- causal reinforcement-learning recommendations
-- generative AI
-- blockchain-based file integrity
-- autonomous rover simulation
-- small systems built to understand how the pieces fit
+`causal RL` · `generative AI` · `blockchain` · `rover simulation` · `systems`
 
-<sub>Names and links are kept off the main stage until their documentation earns the spotlight.</sub>
+Not every experiment needs a spotlight. Some are still being interrogated.
 
 </td>
 </tr>
 </table>
 
-## Technical identity
+## Technical map
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**Build with**
-
-Python · C · SQL · JavaScript · TypeScript
-
-</td>
-<td width="33%" valign="top">
-
-**Think about**
-
-ML · neural networks · RAG · computer vision · data mining
-
-</td>
-<td width="33%" valign="top">
-
-**Make reliable**
-
-APIs · databases · backend architecture · accessibility
-
-</td>
-</tr>
-</table>
-
-<br>
+| BUILD | THINK | MAKE RELIABLE |
+|---|---|---|
+| Python · C · SQL<br>JavaScript · TypeScript | ML · neural networks<br>RAG · computer vision · data mining | APIs · databases<br>backend · accessibility |
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kavya-216&show_icons=true&hide_border=true&bg_color=0B0D12&title_color=72F1D1&icon_color=72F1D1&text_color=F5F2EA&ring_color=72F1D1&include_all_commits=true" height="155" alt="Kavya's GitHub activity summary"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Kavya-216&show_icons=true&hide_border=true&bg_color=0D0E12&title_color=D7FF64&icon_color=D7FF64&text_color=F4F1E8&ring_color=D7FF64&include_all_commits=true" height="150" alt="Kavya's GitHub activity summary"/>
 
 <br>
 
-<sub>One quiet instrument panel. The work stays louder.</sub>
+<sub>The instrument panel is optional. The questions are not.</sub>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-### FIELD NOTE / 02
+`WHAT IF?` &nbsp; → &nbsp; `TRY IT` &nbsp; → &nbsp; `FIND OUT`
 
-> **If the answer is obvious, check the question.**
+<br><br>
 
-`status: building · assumptions: under review · next experiment: classified`
+<sub>still building · assumptions remain editable</sub>
 
 </div>
