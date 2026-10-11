@@ -1,62 +1,70 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0D12,72:171C2B,100:72F1D1&height=190&section=header&text=KAVYA&fontSize=78&fontColor=F5F2EA&fontAlignY=42&desc=HELLO%2C%20CURIOUS%20HUMAN%20%2F%2F%20SIGNAL%20ONLINE&descAlignY=68&descSize=14&descColor=72F1D1" width="100%" alt="Kavya — signal online"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=1100&color=72F1D1&center=true&vCenter=true&width=760&height=34&lines=Computer+Science+%26+Engineering+undergrad;AI%2FML+%C2%B7+backend+engineering+%C2%B7+useful+software;asking+better+questions+before+writing+more+code" alt="Animated introduction"/>
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Kavya--216-171C2B?style=flat-square&logo=github&logoColor=72F1D1)](https://github.com/Kavya-216)
+<img src="./assets/field-notebook.svg" width="100%" alt="Kavya's field notebook: interesting software starts with a better question"/>
 
 </div>
 
 <br>
 
-> **What if the interesting part is the assumption everyone skipped?**
+<div align="center">
 
-I am a Computer Science and Engineering undergraduate pursuing Honours. I build at the intersection of **practical AI, backend systems, and curious experiments** — usually starting with a question and ending with something people can use.
+`COMPUTER SCIENCE & ENGINEERING · HONOURS · INDIA`
 
-I enjoy the unglamorous middle: designing the data layer, making an API behave, testing an idea against reality, and finding the edge case that was quietly waiting in production.
+### **Hello, curious human.**
 
-`question` → `prototype` → `break` → `understand` → `ship`
+I build practical AI and backend systems — then spend an unreasonable amount of time asking whether the original problem was framed correctly.
 
-## Current signal
+[GitHub](https://github.com/Kavya-216) · [Mitra](https://github.com/Kavya-216/Mitra-Legal_and_Mental_aid_for_Women) · [Udaan](https://github.com/Kavya-216/Udaan-Disability_Bridge)
+
+</div>
+
+---
+
+## The short version
+
+I like the part of software that sits between an idea and its proof:
+
+**a useful question** → **a stubborn prototype** → **a system someone can actually use**
+
+My work lives across **AI/ML, retrieval-augmented generation, backend architecture, databases, computer vision, and accessibility**. I also help organise student technology events, which is a polite way of saying I enjoy turning chaos into a schedule.
+
+## Workbench
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="62%" valign="top">
 
-### Building
+### MITRA
+#### Legal & Mental Aid Platform for Women
 
-Useful products with Python, databases, APIs, and retrieval-augmented systems.
+The project currently closest to the centre of the map: an AI-assisted platform for making legal resources and mental-health support easier to access.
+
+I worked on the **backend and database layer**, including the foundation around resources, support flows, and retrieval.
+
+`Python` `Supabase` `RAG` `Node.js` `React / TypeScript`
+
+**Runner-up · SheBuilds Hackathon**
+
+<a href="https://github.com/Kavya-216/Mitra-Legal_and_Mental_aid_for_Women">read the repository →</a>
 
 </td>
-<td width="33%" valign="top">
+<td width="38%" valign="top">
 
-### Exploring
+### The brief
 
-Machine learning, neural networks, data mining, computer vision, and accessibility-focused tools.
+Build help that feels less like a maze.
 
-</td>
-<td width="33%" valign="top">
+### The constraint
 
-### Organising
+Useful AI has to survive contact with real people, real data, and real edge cases.
 
-Student technology events, collaborative builds, and the occasional unconventional idea.
+### The note
+
+The database is not “just storage.” It is where the product remembers what matters.
 
 </td>
 </tr>
 </table>
-
-## Selected work
-
-### MITRA · Legal & Mental Aid Platform for Women
-
-An AI-assisted platform designed to make legal resources and mental-health support easier to access.
-
-**My contribution:** backend and database layer<br>
-**Stack:** `Python` `Supabase` `RAG` `Node.js` `React / TypeScript`<br>
-**Recognition:** Runner-up · SheBuilds Hackathon
 
 <br>
 
@@ -65,98 +73,81 @@ An AI-assisted platform designed to make legal resources and mental-health suppo
 <td width="50%" valign="top">
 
 ### UDAAN
+#### Bridging the Accessibility Gap
 
-Accessibility-focused computer-vision work built for practical, real-world assistance.
+An integrated accessibility ecosystem spanning employment, welfare, advocacy, voice interaction, computer vision, and verified support tools.
 
-`Python` `TensorFlow Lite` `MediaPipe`
+Its documented architecture includes React, Node.js, SQLite, Supabase, Solidity, MediaPipe, RAG/NLP, and multilingual speech recognition.
 
-<sub>AWARD-WINNING PROJECT · DETAILS BEING DOCUMENTED</sub>
+<a href="https://github.com/Kavya-216/Udaan-Disability_Bridge">inspect the build →</a>
 
 </td>
 <td width="50%" valign="top">
 
-### ECOSENTRY
+### More signals
 
-An exploration of environmental audio intelligence and neural-network signal processing.
+Public repositories also include experiments in:
 
-`Python` `Neural Networks` `Audio Processing`
+- causal reinforcement-learning recommendations
+- generative AI
+- blockchain-based file integrity
+- autonomous rover simulation
+- small systems built to understand how the pieces fit
 
-<sub>RESEARCH PROJECT · DETAILS BEING DOCUMENTED</sub>
+<sub>Names and links are kept off the main stage until their documentation earns the spotlight.</sub>
 
 </td>
 </tr>
 </table>
 
-<sub>Project links will be added once the corresponding public repositories are available.</sub>
-
-## Toolkit
+## Technical identity
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-**Languages & data**
+**Build with**
 
-`Python` `C` `SQL` `JavaScript` `TypeScript`
-
-</td>
-<td width="50%" valign="top">
-
-**AI & systems**
-
-`Machine Learning` `Neural Networks` `RAG` `Computer Vision` `APIs`
+Python · C · SQL · JavaScript · TypeScript
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-**Backend & product**
+**Think about**
 
-`Node.js` `Supabase` `Databases` `React` `Accessibility`
+ML · neural networks · RAG · computer vision · data mining
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-**Working style**
+**Make reliable**
 
-`Curious` `Experimental` `Detail-oriented` `Still debugging`
+APIs · databases · backend architecture · accessibility
 
 </td>
 </tr>
 </table>
 
-## GitHub, in a smaller font
+<br>
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Kavya-216&show_icons=true&hide_border=true&bg_color=0B0D12&title_color=72F1D1&icon_color=72F1D1&text_color=F5F2EA&ring_color=72F1D1&include_all_commits=true" alt="Kavya's GitHub statistics"/>
-
-</div>
-
-<sub>Stats are generated by GitHub Readme Stats and may be unavailable temporarily. The profile still reads correctly without them.</sub>
-
-<details>
-<summary><strong>FIELD NOTES</strong></summary>
-
-I do not want to build another tutorial project.
-
-I want to understand something well enough to ask:
-
-> **“What happens if we do this differently?”**
-
-That is usually where the interesting work begins.
-
-</details>
-
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Kavya-216&show_icons=true&hide_border=true&bg_color=0B0D12&title_color=72F1D1&icon_color=72F1D1&text_color=F5F2EA&ring_color=72F1D1&include_all_commits=true" height="155" alt="Kavya's GitHub activity summary"/>
 
 <br>
 
-`the next experiment is probably already compiling`
+<sub>One quiet instrument panel. The work stays louder.</sub>
 
-<br><br>
+</div>
 
-<a href="https://github.com/Kavya-216">GITHUB</a>
+---
+
+<div align="center">
+
+### FIELD NOTE / 02
+
+> **If the answer is obvious, check the question.**
+
+`status: building · assumptions: under review · next experiment: classified`
 
 </div>
