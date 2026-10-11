@@ -1,89 +1,145 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:111B3D,75:24115C,100:06B6D4&height=220&section=header&text=KAVYA&fontSize=82&fontColor=E8F7FF&fontAlignY=42&desc=SIGNAL%20FOUND%20%2F%2F%20SYSTEM%20ONLINE&descAlignY=66&descSize=16&descColor=67E8F9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0D12,72:171C2B,100:72F1D1&height=190&section=header&text=KAVYA&fontSize=78&fontColor=F5F2EA&fontAlignY=42&desc=HELLO%2C%20CURIOUS%20HUMAN%20%2F%2F%20SIGNAL%20ONLINE&descAlignY=68&descSize=14&descColor=72F1D1" width="100%" alt="Kavya — signal online"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2600&pause=900&color=67E8F9&center=true&vCenter=true&width=820&height=38&lines=CSE+%C2%B7+AI%2FML+%C2%B7+PYTHON;building+systems+from+curiosity+and+questionable+sleep+cycles;learning+%C2%B7+building+%C2%B7+breaking+%C2%B7+fixing;turning+%22what+if%3F%22+into+working+software;bugs+detected%3A+classified+as+research." alt="Typing introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=1100&color=72F1D1&center=true&vCenter=true&width=760&height=34&lines=Computer+Science+%26+Engineering+undergrad;AI%2FML+%C2%B7+backend+engineering+%C2%B7+useful+software;asking+better+questions+before+writing+more+code" alt="Animated introduction"/>
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Kavya--216-171C2B?style=flat-square&logo=github&logoColor=72F1D1)](https://github.com/Kavya-216)
 
 </div>
 
-<br><br>
+<br>
 
-<a id="about"></a>
+> **What if the interesting part is the assumption everyone skipped?**
 
-## About me
+I am a Computer Science and Engineering undergraduate pursuing Honours. I build at the intersection of **practical AI, backend systems, and curious experiments** — usually starting with a question and ending with something people can use.
 
-> **Computer Science undergrad building at the intersection of AI/ML and intelligent systems.**
+I enjoy the unglamorous middle: designing the data layer, making an API behave, testing an idea against reality, and finding the edge case that was quietly waiting in production.
 
-I like projects with a question inside them. The kind that start as *“what if?”* and end somewhere between a working prototype and a suspicious number of open browser tabs.
+`question` → `prototype` → `break` → `understand` → `ship`
 
-`learn` → `build` → `break` → `fix` → `ship`
-
----
-
-<a id="projects"></a>
-
-## Selected work
+## Current signal
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### MITRA
-AI-assisted legal and support platform making complex help easier to access.
+### Building
 
-`Python` `RAG` `React` `Supabase`
-
-<sub>RUNNER-UP · SHEBUILDS</sub>
+Useful products with Python, databases, APIs, and retrieval-augmented systems.
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### UDAAN
-Accessibility-focused AI built for practical, real-world assistance.
+### Exploring
 
-`Python` `TensorFlow Lite` `MediaPipe`
-
-<sub>OVERALL RUNNER-UP · NMIT VIBE-O-THON</sub>
+Machine learning, neural networks, data mining, computer vision, and accessibility-focused tools.
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### ECOSENTRY
-Environmental audio intelligence with a simulated sensing network.
+### Organising
 
-`Python` `SNN` `Audio Processing`
-
-<sub>RESEARCH IN PROGRESS</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### NEXT EXPERIMENT
-Currently under construction. Requirements: interesting, useful, slightly unnecessary.
-
-`???` `curiosity` `more debugging`
+Student technology events, collaborative builds, and the occasional unconventional idea.
 
 </td>
 </tr>
 </table>
 
----
+## Selected work
 
-<a id="currently"></a>
+### MITRA · Legal & Mental Aid Platform for Women
 
-## Currently
+An AI-assisted platform designed to make legal resources and mental-health support easier to access.
 
-| LEARNING | BUILDING | EXPLORING |
-|---|---|---|
-| Python<br>DSA<br>AI/ML<br>Systems | Intelligent software<br>Research projects<br>Things that need debugging | Unusual ideas<br>Better ways to build<br>Things that should not work |
+**My contribution:** backend and database layer<br>
+**Stack:** `Python` `Supabase` `RAG` `Node.js` `React / TypeScript`<br>
+**Recognition:** Runner-up · SheBuilds Hackathon
 
----
+<br>
 
-## What I believe
+<table>
+<tr>
+<td width="50%" valign="top">
 
-I don't want to build another tutorial project.
+### UDAAN
+
+Accessibility-focused computer-vision work built for practical, real-world assistance.
+
+`Python` `TensorFlow Lite` `MediaPipe`
+
+<sub>AWARD-WINNING PROJECT · DETAILS BEING DOCUMENTED</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### ECOSENTRY
+
+An exploration of environmental audio intelligence and neural-network signal processing.
+
+`Python` `Neural Networks` `Audio Processing`
+
+<sub>RESEARCH PROJECT · DETAILS BEING DOCUMENTED</sub>
+
+</td>
+</tr>
+</table>
+
+<sub>Project links will be added once the corresponding public repositories are available.</sub>
+
+## Toolkit
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Languages & data**
+
+`Python` `C` `SQL` `JavaScript` `TypeScript`
+
+</td>
+<td width="50%" valign="top">
+
+**AI & systems**
+
+`Machine Learning` `Neural Networks` `RAG` `Computer Vision` `APIs`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Backend & product**
+
+`Node.js` `Supabase` `Databases` `React` `Accessibility`
+
+</td>
+<td width="50%" valign="top">
+
+**Working style**
+
+`Curious` `Experimental` `Detail-oriented` `Still debugging`
+
+</td>
+</tr>
+</table>
+
+## GitHub, in a smaller font
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Kavya-216&show_icons=true&hide_border=true&bg_color=0B0D12&title_color=72F1D1&icon_color=72F1D1&text_color=F5F2EA&ring_color=72F1D1&include_all_commits=true" alt="Kavya's GitHub statistics"/>
+
+</div>
+
+<sub>Stats are generated by GitHub Readme Stats and may be unavailable temporarily. The profile still reads correctly without them.</sub>
+
+<details>
+<summary><strong>FIELD NOTES</strong></summary>
+
+I do not want to build another tutorial project.
 
 I want to understand something well enough to ask:
 
@@ -91,29 +147,16 @@ I want to understand something well enough to ask:
 
 That is usually where the interesting work begins.
 
-<details>
-<summary><strong>▸ PRIVATE LOG</strong></summary>
-
-`status: suspicious`<br>
-`coffee: compensating`<br>
-`bugs: described as research`
-
 </details>
-
----
-
-<a id="contact"></a>
 
 <div align="center">
 
-## Find me
+<br>
 
-<a href="https://github.com/Kavya-216">GITHUB</a>
-&nbsp;&nbsp; // &nbsp;&nbsp;
-<a href="mailto:your-email@example.com">EMAIL</a>
+`the next experiment is probably already compiling`
 
 <br><br>
 
-<sub>thanks for stopping by. the next experiment is probably already compiling.</sub>
+<a href="https://github.com/Kavya-216">GITHUB</a>
 
 </div>
