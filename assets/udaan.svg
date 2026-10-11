@@ -1,19 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 130" width="480" height="130" role="img" aria-labelledby="t d">
-<title id="t">Udaan glyph</title><desc id="d">Viewfinder corners around a small keypoint graph.</desc>
-<defs><pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#14161A" stroke-opacity=".07"/></pattern></defs>
-<rect width="480" height="130" fill="#F1ECE0"/><rect width="480" height="130" fill="url(#g)"/><rect x="12" y="12" width="456" height="106" fill="none" stroke="#14161A" stroke-width="1.2"/><path d="M0 12H6M12 0V6M480 12H474M468 0V6M0 118H6M12 130V124M480 118H474M468 130V124" stroke="#14161A" stroke-width="1" fill="none"/>
-<path d="M80 40V26H94" stroke="#E4572E" stroke-width="2.4" fill="none"/>
-<path d="M220 40V26H206" stroke="#E4572E" stroke-width="2.4" fill="none"/>
-<path d="M80 92V106H94" stroke="#E4572E" stroke-width="2.4" fill="none"/>
-<path d="M220 92V106H206" stroke="#E4572E" stroke-width="2.4" fill="none"/>
-<path d="M102.0 44.8L150.0 32.0L191.6 51.2L172.4 86.4L127.6 76.8Z" stroke="#14161A" stroke-opacity=".55" fill="none"/>
-<path d="M146.8 57.6L102.0 44.8M146.8 57.6L191.6 51.2M146.8 57.6L127.6 76.8" stroke="#14161A" stroke-opacity=".35"/>
-<circle cx="102.0" cy="44.8" r="4.2" fill="#14161A"/>
-<circle cx="150.0" cy="32.0" r="4.2" fill="#14161A"/>
-<circle cx="191.6" cy="51.2" r="4.2" fill="#14161A"/>
-<circle cx="127.6" cy="76.8" r="4.2" fill="#14161A"/>
-<circle cx="172.4" cy="86.4" r="4.2" fill="#14161A"/>
-<circle cx="146.8" cy="57.6" r="4.2" fill="#14161A"/>
-<text x="260" y="56" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#14161A" text-anchor="start" font-weight="bold" letter-spacing="2" font-style="normal" >ACCESSIBILITY</text>
-<text x="260" y="76" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#6B665C" text-anchor="start" font-weight="normal" letter-spacing="2" font-style="normal" >COMPUTER VISION</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 150" width="480" height="150" role="img" aria-labelledby="t d">
+<title id="t">Udaan glyph</title><desc id="d">Viewfinder corners and a scanning line over a small keypoint graph.</desc>
+<defs><pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#fff" fill-opacity=".05"/></pattern><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#25E8FF" stroke-opacity=".07"/></pattern><radialGradient id="vig" cx="50%" cy="50%" r="75%"><stop offset="55%" stop-color="#000" stop-opacity="0"/><stop offset="100%" stop-color="#000" stop-opacity=".6"/></radialGradient><filter id="glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><linearGradient id="sweep" x1="0" x2="1"><stop offset="0" stop-color="#B6FF3B" stop-opacity="0"/><stop offset=".5" stop-color="#B6FF3B"/><stop offset="1" stop-color="#B6FF3B" stop-opacity="0"/></linearGradient></defs>
+<rect width="480" height="150" fill="#07060E"/><rect width="480" height="150" fill="url(#grid)"/>
+<rect x="10" y="10" width="460" height="130" fill="none" stroke="#25E8FF" stroke-opacity=".4" stroke-width="1"/><path d="M10 32V10H32M448 10H470V32M10 118V140H32M448 140H470V118" fill="none" stroke="#FF3DA5" stroke-width="2.2"/>
+<path d="M68 50V34H84" stroke="#FF3DA5" stroke-width="2.6" fill="none"><animate attributeName="stroke-opacity" values="1;.4;1" dur="1.8s" repeatCount="indefinite"/></path>
+<path d="M212 50V34H196" stroke="#FF3DA5" stroke-width="2.6" fill="none"><animate attributeName="stroke-opacity" values="1;.4;1" dur="1.8s" repeatCount="indefinite"/></path>
+<path d="M68 106V122H84" stroke="#FF3DA5" stroke-width="2.6" fill="none"><animate attributeName="stroke-opacity" values="1;.4;1" dur="1.8s" repeatCount="indefinite"/></path>
+<path d="M212 106V122H196" stroke="#FF3DA5" stroke-width="2.6" fill="none"><animate attributeName="stroke-opacity" values="1;.4;1" dur="1.8s" repeatCount="indefinite"/></path>
+<path d="M110 62L140 50" stroke="#25E8FF" stroke-opacity=".55"/>
+<path d="M140 50L172 64" stroke="#25E8FF" stroke-opacity=".55"/>
+<path d="M172 64L156 100" stroke="#25E8FF" stroke-opacity=".55"/>
+<path d="M156 100L122 92" stroke="#25E8FF" stroke-opacity=".55"/>
+<path d="M122 92L110 62" stroke="#25E8FF" stroke-opacity=".55"/>
+<path d="M140 74L110 62" stroke="#25E8FF" stroke-opacity=".55"/>
+<path d="M140 74L172 64" stroke="#25E8FF" stroke-opacity=".55"/>
+<path d="M140 74L122 92" stroke="#25E8FF" stroke-opacity=".55"/>
+<path d="M140 74L156 100" stroke="#25E8FF" stroke-opacity=".55"/>
+<circle cx="110" cy="62" r="4.4" fill="#B6FF3B"><animate attributeName="r" values="4.4;6.4;4.4" dur="2s" begin="0.0s" repeatCount="indefinite"/></circle>
+<circle cx="140" cy="50" r="4.4" fill="#B6FF3B"><animate attributeName="r" values="4.4;6.4;4.4" dur="2s" begin="0.3s" repeatCount="indefinite"/></circle>
+<circle cx="172" cy="64" r="4.4" fill="#B6FF3B"><animate attributeName="r" values="4.4;6.4;4.4" dur="2s" begin="0.6s" repeatCount="indefinite"/></circle>
+<circle cx="122" cy="92" r="4.4" fill="#B6FF3B"><animate attributeName="r" values="4.4;6.4;4.4" dur="2s" begin="0.8999999999999999s" repeatCount="indefinite"/></circle>
+<circle cx="156" cy="100" r="4.4" fill="#B6FF3B"><animate attributeName="r" values="4.4;6.4;4.4" dur="2s" begin="1.2s" repeatCount="indefinite"/></circle>
+<circle cx="140" cy="74" r="4.4" fill="#B6FF3B"><animate attributeName="r" values="4.4;6.4;4.4" dur="2s" begin="1.5s" repeatCount="indefinite"/></circle>
+<rect x="72" y="34" width="136" height="2" fill="#B6FF3B" opacity="0" filter="url(#glow)"><animate attributeName="y" values="34;122" dur="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;.9;0" keyTimes="0;.1;.9;1" dur="2.4s" repeatCount="indefinite"/></rect>
+<text x="256" y="70" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#25E8FF" text-anchor="start" font-weight="bold" letter-spacing="2" >ACCESSIBILITY</text>
+<text x="256" y="92" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#8A86A6" text-anchor="start" font-weight="normal" letter-spacing="2" >COMPUTER VISION</text>
+<rect width="480" height="150" fill="url(#scan)"/><rect width="480" height="150" fill="url(#vig)"/>
 </svg>

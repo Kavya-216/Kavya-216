@@ -1,29 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 150" width="1000" height="150" role="img" aria-labelledby="t d">
-<title id="t">Protocol: question, prototype, break, understand, ship</title><desc id="d">A loop: question, prototype, break, understand, ship, then back to question.</desc>
-<defs><pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#14161A" stroke-opacity=".07"/></pattern></defs>
-<rect width="1000" height="150" fill="#F1ECE0"/><rect width="1000" height="150" fill="url(#g)"/><rect x="12" y="12" width="976" height="126" fill="none" stroke="#14161A" stroke-width="1.2"/><path d="M0 12H6M12 0V6M1000 12H994M988 0V6M0 138H6M12 150V144M1000 138H994M988 150V144" stroke="#14161A" stroke-width="1" fill="none"/>
-<text x="44" y="40" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#14161A" text-anchor="start" font-weight="normal" letter-spacing="2" font-style="normal" >FIG. 02 · PROTOCOL</text>
-<text x="956" y="40" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#6B665C" text-anchor="end" font-weight="normal" letter-spacing="2" font-style="normal" >RUNS UNTIL IT STOPS BEING WRONG</text>
-<rect x="35" y="56" width="150" height="38" rx="19" fill="none" stroke="#14161A" stroke-width="1.2"/>
-<text x="110" y="80" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#14161A" text-anchor="middle" font-weight="bold" letter-spacing="0" font-style="normal" >question</text>
-<path d="M192 75H217" stroke="#14161A" stroke-width="1.2"/>
-<path d="M216 71L223 75L216 79Z" fill="#14161A"/>
-<rect x="230" y="56" width="150" height="38" rx="19" fill="none" stroke="#14161A" stroke-width="1.2"/>
-<text x="305" y="80" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#14161A" text-anchor="middle" font-weight="bold" letter-spacing="0" font-style="normal" >prototype</text>
-<path d="M387 75H412" stroke="#14161A" stroke-width="1.2"/>
-<path d="M411 71L418 75L411 79Z" fill="#14161A"/>
-<rect x="425" y="56" width="150" height="38" rx="19" fill="#E4572E" stroke="#14161A" stroke-width="1.2"/>
-<text x="500" y="80" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#F1ECE0" text-anchor="middle" font-weight="bold" letter-spacing="0" font-style="normal" >break</text>
-<path d="M582 75H607" stroke="#14161A" stroke-width="1.2"/>
-<path d="M606 71L613 75L606 79Z" fill="#14161A"/>
-<rect x="620" y="56" width="150" height="38" rx="19" fill="none" stroke="#14161A" stroke-width="1.2"/>
-<text x="695" y="80" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#14161A" text-anchor="middle" font-weight="bold" letter-spacing="0" font-style="normal" >understand</text>
-<path d="M777 75H802" stroke="#14161A" stroke-width="1.2"/>
-<path d="M801 71L808 75L801 79Z" fill="#14161A"/>
-<rect x="815" y="56" width="150" height="38" rx="19" fill="none" stroke="#14161A" stroke-width="1.2"/>
-<text x="890" y="80" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#14161A" text-anchor="middle" font-weight="bold" letter-spacing="0" font-style="normal" >ship</text>
-<path d="M890 96V122H110V102" stroke="#E4572E" stroke-width="1.4" fill="none" stroke-dasharray="5 5"><animate attributeName="stroke-dashoffset" from="20" to="0" dur="1.4s" repeatCount="indefinite"/></path>
-<path d="M105 104L110 97L115 104Z" fill="#E4572E"/>
-<rect x="380" y="113" width="240" height="18" fill="#F1ECE0"/>
-<text x="500" y="126" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#E4572E" text-anchor="middle" font-weight="normal" letter-spacing="0" font-style="normal" >repeat — with a better question</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 176" width="1000" height="176" role="img" aria-labelledby="t d">
+<title id="t">Protocol: question, prototype, break, understand, ship</title><desc id="d">An animated loop: question, prototype, break, understand, ship, then back to question.</desc>
+<defs><pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#fff" fill-opacity=".05"/></pattern><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#25E8FF" stroke-opacity=".07"/></pattern><radialGradient id="vig" cx="50%" cy="50%" r="75%"><stop offset="55%" stop-color="#000" stop-opacity="0"/><stop offset="100%" stop-color="#000" stop-opacity=".6"/></radialGradient><filter id="glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><linearGradient id="sweep" x1="0" x2="1"><stop offset="0" stop-color="#B6FF3B" stop-opacity="0"/><stop offset=".5" stop-color="#B6FF3B"/><stop offset="1" stop-color="#B6FF3B" stop-opacity="0"/></linearGradient></defs>
+<rect width="1000" height="176" fill="#07060E"/><rect width="1000" height="176" fill="url(#grid)"/>
+<rect x="10" y="10" width="980" height="156" fill="none" stroke="#25E8FF" stroke-opacity=".4" stroke-width="1"/><path d="M10 32V10H32M968 10H990V32M10 144V166H32M968 166H990V144" fill="none" stroke="#FF3DA5" stroke-width="2.2"/>
+<text x="40" y="40" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#F4F1FF" text-anchor="start" font-weight="normal" letter-spacing="3" >PROTOCOL</text>
+<text x="960" y="40" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#8A86A6" text-anchor="end" font-weight="normal" letter-spacing="2" >RUNS UNTIL IT STOPS BEING WRONG</text>
+<g><rect x="34" y="58" width="152" height="48" rx="24" fill="#07060E" stroke="#25E8FF" stroke-width="1.8"/><text x="110" y="88" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#F4F1FF" text-anchor="middle" font-weight="bold" letter-spacing="0" >question</text></g>
+<rect x="34" y="58" width="152" height="48" rx="24" fill="#B6FF3B" opacity="0"><animate attributeName="opacity" values="0.5;0;0" keyTimes="0;0.06;1" dur="8s" repeatCount="indefinite"/></rect>
+<path d="M194 82H215" stroke="#25E8FF" stroke-width="1.6"/>
+<path d="M213 77L221 82L213 87Z" fill="#25E8FF"/>
+<g><rect x="229" y="58" width="152" height="48" rx="24" fill="#07060E" stroke="#25E8FF" stroke-width="1.8"/><text x="305" y="88" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#F4F1FF" text-anchor="middle" font-weight="bold" letter-spacing="0" >prototype</text></g>
+<rect x="229" y="58" width="152" height="48" rx="24" fill="#B6FF3B" opacity="0"><animate attributeName="opacity" values="0;0;0.5;0;0" keyTimes="0;0.0875;0.1175;0.1775;1" dur="8s" repeatCount="indefinite"/></rect>
+<path d="M389 82H410" stroke="#25E8FF" stroke-width="1.6"/>
+<path d="M408 77L416 82L408 87Z" fill="#25E8FF"/>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 0;-4 0;4 0;-3 0;0 0;0 0" keyTimes="0;.45;.47;.49;.51;.53;1" dur="8s" repeatCount="indefinite"/><rect x="424" y="58" width="152" height="48" rx="24" fill="#FF3DA5" stroke="#FF3DA5" stroke-width="1.8"/><text x="500" y="88" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#07060E" text-anchor="middle" font-weight="bold" letter-spacing="0" >break</text></g>
+<rect x="424" y="58" width="152" height="48" rx="24" fill="#B6FF3B" opacity="0"><animate attributeName="opacity" values="0;0;0.5;0;0" keyTimes="0;0.2049;0.2349;0.2949;1" dur="8s" repeatCount="indefinite"/></rect>
+<path d="M584 82H605" stroke="#25E8FF" stroke-width="1.6"/>
+<path d="M603 77L611 82L603 87Z" fill="#25E8FF"/>
+<g><rect x="619" y="58" width="152" height="48" rx="24" fill="#07060E" stroke="#25E8FF" stroke-width="1.8"/><text x="695" y="88" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#F4F1FF" text-anchor="middle" font-weight="bold" letter-spacing="0" >understand</text></g>
+<rect x="619" y="58" width="152" height="48" rx="24" fill="#B6FF3B" opacity="0"><animate attributeName="opacity" values="0;0;0.5;0;0" keyTimes="0;0.3224;0.3524;0.4124;1" dur="8s" repeatCount="indefinite"/></rect>
+<path d="M779 82H800" stroke="#25E8FF" stroke-width="1.6"/>
+<path d="M798 77L806 82L798 87Z" fill="#25E8FF"/>
+<g><rect x="814" y="58" width="152" height="48" rx="24" fill="#07060E" stroke="#25E8FF" stroke-width="1.8"/><text x="890" y="88" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#F4F1FF" text-anchor="middle" font-weight="bold" letter-spacing="0" >ship</text></g>
+<rect x="814" y="58" width="152" height="48" rx="24" fill="#B6FF3B" opacity="0"><animate attributeName="opacity" values="0;0;0.5;0;0" keyTimes="0;0.4399;0.4699;0.5299;1" dur="8s" repeatCount="indefinite"/></rect>
+<path d="M890 110V136H110V114" fill="none" stroke="#FF3DA5" stroke-width="1.6" stroke-dasharray="6 6"><animate attributeName="stroke-dashoffset" from="24" to="0" dur="1.2s" repeatCount="indefinite"/></path>
+<path d="M104 116L110 108L116 116Z" fill="#FF3DA5"/>
+<rect x="372" y="127" width="256" height="18" fill="#07060E"/>
+<text x="500" y="141" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#FF3DA5" text-anchor="middle" font-weight="normal" letter-spacing="0" >repeat // with a better question</text>
+<circle r="5" fill="#B6FF3B" filter="url(#glow)"><animateMotion path="M110 82H890V136H110Z" dur="8s" repeatCount="indefinite"/></circle>
+<rect width="1000" height="176" fill="url(#scan)"/><rect width="1000" height="176" fill="url(#vig)"/>
 </svg>

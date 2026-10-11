@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Hello, stalker. A scatter plot of an embedding space where the query “what if…” retrieves three projects: Mitra, Udaan and EcoSentry.">
+  <img src="assets/hero.svg" width="100%" alt="Hello, stalker. A glitching headline beside an animated neural network where the query “what if…” produces three outputs: bug, feature and why.">
 </p>
 
 I'm **Kavya**, a Computer Science & Engineering undergrad (Honours) who keeps getting pulled toward the part of a system everyone else skipped: the data layer, the edge case that was quietly waiting in production, the assumption nobody questioned.
@@ -64,5 +64,5 @@ interface  React, the basics
 Off the bench: organising student tech events and building things with other people.
 
 <p align="center">
-  <img src="assets/ending.svg" width="100%" alt="No further results. The query point from the top of the page, with its three results.">
+  <img src="assets/ending.svg" width="100%" alt="Bye, stalker. Glitching text over falling code, with the query point and its three results.">
 </p>
